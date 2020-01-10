@@ -416,6 +416,12 @@
 1535001	What's Your Dill, Pickle?
 1536001	Nothing to Bury
 1537001	Good Deeds for the Day
+1540001	First chapter of tale
+1541001	Second chapter of tale
+1542001	Third chapter of tale
+1543001	Culmination of the tale
+1544001	The story of the battle
+1545001	Invasion of pumpkins
 1570001	Guild Orders: Blood Fiends
 1571001	(Guild) Mutant Recruits
 1572001	(Guild) Suppression Orders: Atrocitas
@@ -2078,8 +2084,8 @@
 61640001	Free Exodor Warrior
 61650001	Supporting the Frontline
 61651001	Punishment for Betrayal
-61652001	Supporting a Classified Mission
-61653001	Internal Maneuver
+61652001	Supply Support
+61653001	Starving Aheaf
 61710001	Supporting the Exodor Expedition
 61711001	Exodor Environmental Research
 61712001	Water Survey
@@ -2146,6 +2152,10 @@
 70220001	[Rootstock-Daily] Freeholds Specialty
 71101001	Archetype Weapons
 80101001	Investigating Nexus Traverse
+80902001	Clean up Macellarius Catacombs I
+80903001	Clean up Macellarius Catacombs II
+80904001	Clean up Macellarius Catacombs III
+80905001	Clean up Macellarius Catacombs IV
 90112001	Hello, Sweetie!
 99999001	Unavailable Quest
 102201001	Operation: Overwatch
@@ -2195,7 +2205,7 @@
 200202001	[Important] Rescue Mission
 200203001	[Important] Pursuit
 200220001	For the Cure
-200221001	Material
+200221001	Ingredients
 200222001	Handling Disturbance
 200301001	[Important] To the Fortress
 200302001	[Important] To the Engine Room
@@ -2209,6 +2219,10 @@
 200324001	Internal Maneuver III
 302301001	Vogzu's Summon
 302302001	Hidden Enemy
+302401001	Clean up Azart Hatchery I
+302402001	Clean up Azart Hatchery II
+302501001	Clean up Azart Hatchery III
+302502001	Clean up Azart Hatchery IV
 310101001	[Dungeon] Dawn of the Butterflies
 310102001	[Dungeon] Gossamer Vault
 700008001	Complete the Demokron Factory
@@ -2234,7 +2248,6 @@
 700049001	Conquer the Grotto of Lost Souls (Hard)
 700050001	Complete Bahaar's Sanctum
 700051001	Complete Lilith's Keep
-700053001	Conquer Antaroth's Abyss (7-person)
 700055001	Complete Gossamer Vault
 700056001	Complete Gossamer Vault (Hard)
 700057001	Conquer Verrak Fortress

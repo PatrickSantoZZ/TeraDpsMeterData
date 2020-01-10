@@ -759,8 +759,8 @@
 139004	Fédération Valkyon
 139800	Quêtes :
 140001	Les secrets de la légende
-140002	200 quêtes terminées... et intégralement lues, n'est-ce pas ?
-140003	200 quêtes terminées... et intégralement lues, n'est-ce pas ?
+140002	150 quêtes terminées... et intégralement lues, n'est-ce pas ?
+140003	150 quêtes terminées... et intégralement lues, n'est-ce pas ?
 140004	Fédération Valkyon
 140501	Écrivain de l'histoire
 140800	Quêtes :
@@ -3800,10 +3800,10 @@
 804004	Fédération Valkyon
 804800	Vous avez obtenu 30 000 crédits de Bellicarium.
 805001	Crédit envers la famille
-805002	Vous avez gagné 5 000 crédits de réputation du Consortium de Jax.
-805003	Vous avez gagné 5 000 crédits de réputation du Consortium de Jax.
+805002	Au total, vous avez gagné 3 000 points de réputation de guilde du Consortium de Jax.
+805003	Au total, vous avez gagné 3 000 points de réputation de guilde du Consortium de Jax.
 805004	Fédération Valkyon
-805800	Vous avez gagné 5 000 crédits de réputation de guilde du Consortium de Jax.
+805800	Vous avez gagné 3 000 points de réputation de guilde du Consortium de Jax.
 806001	Crédit supplémentaire
 806002	Vous avez gagné 3 000 crédits de réputation de Folie meurtrière.
 806003	Vous avez gagné 3 000 crédits de réputation de Folie meurtrière.
@@ -10473,6 +10473,18 @@
 520059004	Équipe TERA
 520059501	Tour des cauchemars
 520059800	Conquérant de Montori
+520060001	Prince des merveilles
+520060002	Maîtrisez Wonderholme (dément) 31 fois durant l'hiver 2019.
+520060003	Maîtrisez Wonderholme (dément) 31 fois.
+520060004	Équipe TERA
+520060501	Prince des merveilles
+520060800	Maîtrisez Wonderholme (dément) 31 fois.
+520061001	Héros tentaculaire
+520061002	Maîtrisez l'Abcès (dément) 77 fois durant l'hiver 2019.
+520061003	Maîtrisez l'Abcès (dément) 77 fois.
+520061004	Équipe TERA
+520061501	Rédempteur
+520061800	Maîtrisez l'Abcès (dément) 77 fois.
 525000001	Lore Apprentice
 525000002	Lore items A, B, C
 525000003	Lore items A, B, C
@@ -10629,6 +10641,24 @@
 525025004	TERA Team
 525025501	Dummy 20
 525025800	Dummy 20
+525026001	[Achievement] Giver of Life
+525026002	You helped En Masse achieve its charity goal! You're a charitable champion!
+525026003	Thank you so much for having a big heart! You helped En Masse achieve our goal of $5000 in charitable donations to help Extra Life - which means you're helping save lives! You truly are the Giver of Life.
+525026004	TERA Team
+525026501	Giver of Life
+525026800	Obtain 1 Police Report during event
+525027001	[Achievement] Heart of Gold
+525027002	You donated $35 to Extra Life! You're a charitable chum!
+525027003	Thank you so much for having a Heart of Gold and donating to Extra Life. You're helping support our local Children's Miracle Network Hospital! Your Heart of Gold will help someone in need.
+525027004	TERA Team
+525027501	Heart of Gold
+525027800	Obtain 1 Police Report during event
+525028001	[Achievement] Extra Life QT
+525028002	You donated $25 to Extra Life! You're a charitable chum!
+525028003	Thank you so much for being an Extra Life QT and donating to Extra Life. You're helping support our local Children's Miracle Network Hospital! Your donation will help someone in need.
+525028004	TERA Team
+525028501	Extra Life QT
+525028800	Obtain 1 Police Report during event
 530009001	collection_title1
 530009002	Complete milestone of event "Altar of cards" and use special item from reward to get achievment
 530009003	Unique title. Colour: white

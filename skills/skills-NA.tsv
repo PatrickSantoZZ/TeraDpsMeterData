@@ -7693,18 +7693,18 @@
 8881001	Common	Common	Common	Convergence			icon_skills.guildskills_callclan_tex
 8881002	Common	Common	Common	Battle Will			icon_skills.guildskills_ccres2_tex
 8881003	Common	Common	Common	Impregnable			icon_skills.guildskills_basehp2_tex
+9010100	Aman	Common	Common	Kaiator's Drums			icon_skills.returnofkaiator_tex
 9010100	Popori	Common	Common	Velik's Horn			icon_skills.returnofvelica_tex
 9010100	Human	Common	Common	Velik's Horn			icon_skills.returnofvelica_tex
 9010100	Highelf	Common	Common	Core's Resonance			icon_skills.returnofcore_tex
 9010100	Castanic	Common	Common	Kaiator's Drums			icon_skills.returnofkaiator_tex
 9010100	Baraka	Common	Common	Core's Resonance			icon_skills.returnofcore_tex
-9010100	Aman	Common	Common	Kaiator's Drums			icon_skills.returnofkaiator_tex
-9020100	Aman	Common	Common	Last Aman Standing			icon_skills.expertfighter_tex
-9020100	Baraka	Common	Common	Ancient Wellspring			icon_skills.earthmeld_tex
-9020100	Popori	Common	Common	Soothing Presence			icon_skills.naturesfriend_tex
 9020100	Human	Common	Common	Deft Footwork			icon_skills.duelmastery_tex
-9020100	Highelf	Common	Common	Core Infusion			icon_skills.activatelink_tex
+9020100	Popori	Common	Common	Soothing Presence			icon_skills.naturesfriend_tex
 9020100	Castanic	Common	Common	Skirmish Running			icon_skills.markoflok_tex
+9020100	Baraka	Common	Common	Ancient Wellspring			icon_skills.earthmeld_tex
+9020100	Highelf	Common	Common	Core Infusion			icon_skills.activatelink_tex
+9020100	Aman	Common	Common	Last Aman Standing			icon_skills.expertfighter_tex
 9030100	Popori	Common	Common	Horizon Run			icon_skills.journeyman_tex
 9100001	Common	Common	Common	Songbird's Refrain I			icon_skills.bluebird_vehicleskill_rare_tex
 9100002	Common	Common	Common	Songbird's Refrain I			icon_skills.bluebird_vehicleskill_rare_tex
@@ -7734,6 +7734,10 @@
 9100036	Common	Common	Common	Brightness II			icon_skills.clever_active_red_tex
 9100037	Common	Common	Common	Brightness I			icon_skills.clever_active_blue_tex
 9100038	Common	Common	Common	Brightness I			icon_skills.clever_active_blue_tex
+9100039	Common	Common	Common	Ancient Power			icon_skills.dragonangry3_tex
+9100040	Common	Common	Common	Timeless Power			icon_skills.dragonangry3_tex
+9100041	Common	Common	Common	Ancient Power			icon_skills.dragonangry3_tex
+9100042	Common	Common	Common	Timeless Power			icon_skills.dragonangry3_tex
 9100100	Common	Common	Common	Apex Urgency			icon_skills.awakenaura_tex
 9505001	Common	Common	Common	Velika Banquet Invitation			icon_items.q_letterseal_tex
 9505002	Common	Common	Common	Scholar's Teleport Scroll: Elenea			icon_items.townrecall_tex
@@ -7961,6 +7965,19 @@
 12200199	Common	Common	Common	Summon: Ebon Celestial Dragon			icon_skills.vehicle_kirin_w_black_tex
 12200200	Common	Common	Common	Summon: Ebon Celestial Dragon			icon_skills.vehicle_kirin_w_black_tex
 12200201	Common	Common	Common	Summon: Ebon Celestial Dragon			icon_skills.vehicle_kirin_w_black_tex
+12200202	Common	Common	Common	Summon: Glacial Dragon			icon_skills.vehicle_winterdragon_a_tex
+12200203	Common	Common	Common	Summon: Glimmering Ice Dragon			icon_skills.vehicle_winterdragon_b_tex
+12200204	Common	Common	Common	Summon: Glacial Dragon [Time-limited]			icon_skills.vehicle_winterdragon_a_tex
+12200205	Common	Common	Common	Summon: Glacial Dragon [Rare][Time-limited]			icon_skills.vehicle_winterdragon_b_tex
+12200206	Common	Common	Common	Summon: Frostwing			icon_skills.vehicle_winterdragon_a_tex
+12200207	Common	Common	Common	Summon: Frosthide			icon_skills.vehicle_winterdragon_b_tex
+12200208	Common	Common	Common	Summon: Frostwing			icon_skills.vehicle_winterdragon_a_tex
+12200209	Common	Common	Common	Summon: Frosthide			icon_skills.vehicle_winterdragon_b_tex
+12200210	Common	Common	Common	Summon: Santa Alpaca			icon_skills.vehicle_llama_e_tex
+12200211	Common	Common	Common	Summon: Flurryheart			icon_skills.vehicle_snowman_tex
+12200212	Common	Common	Common	Summon: Frostheart			icon_skills.vehicle_snowman_tex
+12200213	Common	Common	Common	Summon: Blithespring			icon_skills.vehicle_kumas_a_tex
+12200214	Common	Common	Common	Summon: Ice			icon_skills.vehicle_bear_a_tex
 12300004	Common	Common	Common	[PC Cafe] Enchanter's Blessing Scroll (5 minutes)			icon_items.solventg12_tex
 12300005	Common	Common	Common	[PC Cafe] Blessed Enchanter's Blessing Scroll (5minutes)			icon_items.solventg13_tex
 12300006	Common	Common	Common	[PC Cafe] Revered Enchanter's Blessing Scroll (5minutes)			icon_items.solventg14_tex
@@ -9447,8 +9464,8 @@
 19000718	Common	Common	Common	Leprechaun Costume			icon_items.gift_box04_tex
 19000719	Common	Common	Common	Promotional Smart Box			icon_items.gift_box04_tex
 19000720	Common	Common	Common	Promotional Smart Box			icon_items.gift_box04_tex
-19000721	Common	Common	Common	Surprise Smart Box70			icon_items.gift_box04_tex
-19000722	Common	Common	Common	Surprise Smart Box71			icon_items.gift_box04_tex
+19000721	Common	Common	Common	Hornet Flight Suit Smart Box			icon_items.gift_box04_tex
+19000722	Common	Common	Common	Casual Summersilk Robe Bundle			icon_items.gift_box04_tex
 19000723	Common	Common	Common	Surprise Smart Box72			icon_items.gift_box04_tex
 19000724	Common	Common	Common	Picture-Perfect Pixies Smart Box (3-Day)			icon_items.gift_box04_tex
 19000725	Common	Common	Common	Starglow Costume Box (3-Day)			icon_items.gift_box04_tex
@@ -9741,7 +9758,7 @@
 19001167	Common	Common	Common	Lucky Seven Uniform Smart Box			icon_items.gift_box04_tex
 19001168	Common	Common	Common	Promotional Smart Box (7-day)			icon_items.gift_box04_tex
 19001169	Common	Common	Common	Dark Pixie Personal Smart Box			icon_items.gift_box04_tex
-19001170	Common	Common	Common	Surprise Box 144			icon_items.gift_box04_tex
+19001170	Common	Common	Common	Pocket Tab and Expansion Token Bundle			icon_items.gift_box04_tex
 19001171	Common	Common	Common	Surprise Box 145			icon_items.gift_box04_tex
 19001172	Common	Common	Common	Surprise Box 146			icon_items.gift_box04_tex
 19001173	Common	Common	Common	Surprise Box 147			icon_items.gift_box04_tex
@@ -10239,6 +10256,66 @@
 19001788	Common	Common	Common	Smart Box: Dance Costume (Dye) (Permanent, Non-Tradable)			icon_items.gift_box04_tex
 19001789	Common	Common	Common	Smart Box: Dance Costume (Dye) (7 Days)			icon_items.gift_box04_tex
 19001793	Common	Common	Common	Midnight Blue Hanbok Smart Box			icon_items.gift_box04_tex
+19001794	Common	Common	Common	Smartbox: Dye Halloween Costume (30 days)			icon_items.premiumbox_dress3_tex
+19001797	Common	Common	Common	Female Dyeable Autumn Dancer Costume Box			icon_items.premiumbox_dress4_tex
+19001798	Common	Common	Common	Female Rare Autumn Dancer Costume Box			icon_items.premiumbox_dress3_tex
+19001799	Common	Common	Common	Female Autumn Dancer Costume Box			icon_items.premiumbox_dress1_tex
+19001800	Common	Common	Common	Halloween Costume Box			icon_items.premiumbox_dress2_tex
+19001801	Common	Common	Common	Rare Halloween Costume Box			icon_items.premiumbox_dress3_tex
+19001802	Common	Common	Common	Dyeable Halloween Costume Box			icon_items.premiumbox_dress4_tex
+19001812	Common	Common	Common	Smartbox: Dye Halloween Costume (14 days)			icon_items.premiumbox_dress3_tex
+19001813	Common	Common	Common	Smartbox: Dye Halloween Costume (7 days)			icon_items.premiumbox_dress3_tex
+19001814	Common	Common	Common	Smartbox: Dye Halloween Costume (3 days)			icon_items.premiumbox_dress3_tex
+19001815	Common	Common	Common	Smartbox: Dye Halloween Costume (tradable)			icon_items.premiumbox_dress3_tex
+19001816	Common	Common	Common	Smartbox: Dye Halloween Costume (non-tradable)			icon_items.premiumbox_dress3_tex
+19001817	Common	Common	Common	Smartbox: Rare Halloween Costume (30 days)			icon_items.premiumbox_dress3_tex
+19001818	Common	Common	Common	Smartbox: Rare Halloween Costume (14 days)			icon_items.premiumbox_dress3_tex
+19001819	Common	Common	Common	Smartbox: Rare Halloween Costume (7 days)			icon_items.premiumbox_dress3_tex
+19001820	Common	Common	Common	Smartbox: Rare Halloween Costume (3 days)			icon_items.premiumbox_dress3_tex
+19001821	Common	Common	Common	Smartbox: Rare Halloween Costume (tradable)			icon_items.premiumbox_dress3_tex
+19001822	Common	Common	Common	Smartbox: Rare Halloween Costume (non-tradable)			icon_items.premiumbox_dress3_tex
+19001823	Common	Common	Common	Smartbox: Halloween Costume (30 days)			icon_items.premiumbox_dress3_tex
+19001824	Common	Common	Common	Smartbox: Halloween Costume (14 days)			icon_items.premiumbox_dress3_tex
+19001825	Common	Common	Common	Smartbox: Halloween Costume (7 days)			icon_items.premiumbox_dress3_tex
+19001826	Common	Common	Common	Smartbox: Halloween Costume (3 days)			icon_items.premiumbox_dress3_tex
+19001827	Common	Common	Common	Smartbox: Halloween Costume (tradable)			icon_items.premiumbox_dress3_tex
+19001828	Common	Common	Common	Smartbox: Halloween Costume (non-tradable)			icon_items.premiumbox_dress3_tex
+19001833	Common	Common	Common	Smart Box: Halloween (Dye) (7 Days)			icon_items.gift_box04_tex
+19001834	Common	Common	Common	Smart Box: Halloween (Dye) (Perm, Non-Tade)			icon_items.gift_box04_tex
+19001835	Common	Common	Common	Halloween (Dye) (Perm, Tade)			icon_items.gift_box04_tex
+19001836	Common	Common	Common	Smart Box: Halloween (Rare) (7 Days)			icon_items.gift_box04_tex
+19001837	Common	Common	Common	Smart Box: Halloween (Rare) (Perm, Non-Tade)			icon_items.gift_box04_tex
+19001838	Common	Common	Common	Halloween (Rare) (Perm, Tade)			icon_items.gift_box04_tex
+19001839	Common	Common	Common	Smart Box: Halloween (Normal) (7 Days)			icon_items.gift_box04_tex
+19001840	Common	Common	Common	Smart Box: Halloween (Normal) (Perm, Non-Tade)			icon_items.gift_box04_tex
+19001841	Common	Common	Common	Halloween (Normal) (Perm, Tade)			icon_items.gift_box04_tex
+19001842	Common	Common	Common	Vampir Nobility Costume			icon_items.tresurebox2_tex
+19001843	Common	Common	Common	Dyeable Vampir Royalty Costume			icon_items.tresurebox2_tex
+19001844	Common	Common	Common	Vampir Royalty Costume			icon_items.tresurebox2_tex
+19001845	Common	Common	Common	Aquamarine Spellforged Weapon Skin			icon_items.gift_box04_tex
+19001846	Common	Common	Common	Ultraviolet Spellforged Weapon Skin			icon_items.gift_box04_tex
+19001847	Common	Common	Common	Personal Aquamarine Spellforged Weapon Skin			icon_items.gift_box04_tex
+19001848	Common	Common	Common	Personal Ultraviolet Spellforged Weapon Skin			icon_items.gift_box04_tex
+19001849	Common	Common	Common	Smart Box: Blue Neon Weapon (Perm, Trade)			icon_items.gift_box04_tex
+19001850	Common	Common	Common	Smart Box: Blue Neon Weapon (Perm, Non-Trade)			icon_items.gift_box04_tex
+19001851	Common	Common	Common	Smart Box: Blue Neon Weapon (7 Days)			icon_items.gift_box04_tex
+19001852	Common	Common	Common	Smart Box: Purple Neon Weapon (Perm, Trade)			icon_items.gift_box04_tex
+19001853	Common	Common	Common	Smart Box: Purple Neon Weapon (Perm, Non-Trade)			icon_items.gift_box04_tex
+19001854	Common	Common	Common	Smart Box: Purple Neon Weapon (7 Days)			icon_items.gift_box04_tex
+19001855	Common	Common	Common	Full Stormcry Smart Box			icon_items.gift_box03_tex
+19001863	Common	Common	Common	Smartbox: Neon purple weapon (non-tradable)			icon_items.premiumbox_weapon3_tex
+19001864	Common	Common	Common	Smartbox: Neon purple weapon (tradable)			icon_items.premiumbox_weapon3_tex
+19001865	Common	Common	Common	Smartbox: Neon purple weapon (3 days)			icon_items.premiumbox_weapon3_tex
+19001866	Common	Common	Common	Smartbox: Neon purple weapon (7 days)			icon_items.premiumbox_weapon3_tex
+19001867	Common	Common	Common	Smartbox: Neon purple weapon (14 days)			icon_items.premiumbox_weapon3_tex
+19001868	Common	Common	Common	Smartbox: Neon purple weapon (30 days)			icon_items.premiumbox_weapon3_tex
+19001869	Common	Common	Common	Smartbox: Neon cyan weapon (non-tradable)			icon_items.premiumbox_weapon3_tex
+19001870	Common	Common	Common	Smartbox: Neon cyan weapon (tradable)			icon_items.premiumbox_weapon3_tex
+19001871	Common	Common	Common	Smartbox: Neon cyan weapon (3 days)			icon_items.premiumbox_weapon3_tex
+19001872	Common	Common	Common	Smartbox: Neon cyan weapon (7 days)			icon_items.premiumbox_weapon3_tex
+19001873	Common	Common	Common	Smartbox: Neon cyan weapon (14 days)			icon_items.premiumbox_weapon3_tex
+19001874	Common	Common	Common	Smartbox: Neon cyan weapon (30 days)			icon_items.premiumbox_weapon3_tex
+19001892	Common	Common	Common	Yule War 2019 Weapon Skin Smart Box			icon_items.gift_box04_tex
 20691703	Common	Common	Common	Velika Guild Seal			icon_skills.guildskill0_buff1_tex
 20691704	Common	Common	Common	100 Guild Credits			icon_items.reputationpoint_tex
 22300001	Common	Common	Common	Firework (Single-use)			icon_equipments.firecracker_tex
@@ -10546,6 +10623,18 @@
 23000360	Common	Common	Common	Summon: Dragon Boat (HP)			icon_skills.vehicle_dragonship_a_tex
 23000361	Common	Common	Common	Summon: Noble Dragon Boat			icon_skills.vehicle_dragonship_a_tex
 23000362	Common	Common	Common	Summon: Splendid Dragon Boat			icon_skills.vehicle_dragonship_a_tex
+23000363	Common	Common	Common	Summon: Ultracorn			icon_skills.vehicle_unicon_bf_a_tex
+23000364	Common	Common	Common	Summon: Ultracorn (MP)			icon_skills.vehicle_unicon_bf_a_tex
+23000365	Common	Common	Common	Summon: Ultracorn (HP)			icon_skills.vehicle_unicon_bf_a_tex
+23000366	Common	Common	Common	Summon: Ultracorn (0.5% HP/MP)			icon_skills.vehicle_unicon_bf_a_tex
+23000367	Common	Common	Common	Summon: Ultracorn (1% HP/MP)			icon_skills.vehicle_unicon_bf_a_tex
+23000368	Common	Common	Common	Summon: Ultracorn (0.5% HP/MP)			icon_skills.vehicle_unicon_bf_a_tex
+23000369	Common	Common	Common	Summon: Ultracorn (0.5% HP/1% MP)			icon_skills.vehicle_unicon_bf_a_tex
+23000370	Common	Common	Common	Summon: Ultracorn			icon_skills.vehicle_unicon_bf_a_tex
+23000371	Common	Common	Common	Summon: Ultracorn (MP)			icon_skills.vehicle_unicon_bf_a_tex
+23000372	Common	Common	Common	Summon: Ultracorn (HP)			icon_skills.vehicle_unicon_bf_a_tex
+23000373	Common	Common	Common	Summon: Ultracorn (0.5% HP/MP)			icon_skills.vehicle_unicon_bf_a_tex
+23000374	Common	Common	Common	Summon: Ultracorn (0.5% HP/1% MP)			icon_skills.vehicle_unicon_bf_a_tex
 23000375	Common	Common	Common	Summon: Gilderoy			icon_skills.vehicle_bunnyinthemoon_gold_tex
 23000376	Common	Common	Common	Summon: Gilderoy (MP)			icon_skills.vehicle_bunnyinthemoon_gold_tex
 23000377	Common	Common	Common	Summon: Gilderoy (HP)			icon_skills.vehicle_bunnyinthemoon_gold_tex
@@ -10558,6 +10647,18 @@
 23000384	Common	Common	Common	Summon: Gilderoy (HP)			icon_skills.vehicle_bunnyinthemoon_gold_tex
 23000385	Common	Common	Common	Summon: Gilderoy (0.5% HP/MP)			icon_skills.vehicle_bunnyinthemoon_gold_tex
 23000386	Common	Common	Common	Summon: Gilderoy (0.5% HP/1% MP)			icon_skills.vehicle_bunnyinthemoon_gold_tex
+23000387	Common	Common	Common	Summon: Megasus			icon_skills.vehicle_unicon_bf_b_tex
+23000388	Common	Common	Common	Summon: Megasus (MP)			icon_skills.vehicle_unicon_bf_b_tex
+23000389	Common	Common	Common	Summon: Megasus (HP)			icon_skills.vehicle_unicon_bf_b_tex
+23000390	Common	Common	Common	Summon: Megasus (0.5% HP/MP)			icon_skills.vehicle_unicon_bf_b_tex
+23000391	Common	Common	Common	Summon: Megasus (1% HP/MP)			icon_skills.vehicle_unicon_bf_b_tex
+23000392	Common	Common	Common	Summon: Megasus (0.5% HP/MP)			icon_skills.vehicle_unicon_bf_b_tex
+23000393	Common	Common	Common	Summon: Megasus (0.5% HP/1% MP)			icon_skills.vehicle_unicon_bf_b_tex
+23000394	Common	Common	Common	Summon: Megasus			icon_skills.vehicle_unicon_bf_b_tex
+23000395	Common	Common	Common	Summon: Megasus (MP)			icon_skills.vehicle_unicon_bf_b_tex
+23000396	Common	Common	Common	Summon: Megasus (HP)			icon_skills.vehicle_unicon_bf_b_tex
+23000397	Common	Common	Common	Summon: Megasus  (0.5% HP/MP)			icon_skills.vehicle_unicon_bf_b_tex
+23000398	Common	Common	Common	Summon: Megasus (0.5% HP/1% MP)			icon_skills.vehicle_unicon_bf_b_tex
 23000399	Common	Common	Common	Summon: Wargourd			icon_skills.vehicle_halloween_a_tex
 23000400	Common	Common	Common	Summon: Wargourd (MP)			icon_skills.vehicle_halloween_a_tex
 23000401	Common	Common	Common	Summon: Wargourd (HP)			icon_skills.vehicle_halloween_a_tex
@@ -10585,6 +10686,9 @@
 23806000	Common	Common	Common	Roostcliff Quarter Teleport Scroll			icon_items.townrecall_tex
 23806001	Common	Common	Common	Wyvern Watch Teleport Scroll			icon_items.townrecall_tex
 23806002	Common	Common	Common	Isolation Camp Teleport Scroll			icon_items.townrecall_tex
+30209103	Common	Common	Common	Swift XP Potion (300%/400%)(1 Day)			icon_items.potion20_tex
+30209104	Common	Common	Common	Skill Advancement 15% (1 Day)			icon_items.politics_reward_tex
+30209105	Common	Common	Common	Swift XP Potion (600%/700%)(1 Hour)			icon_items.potion20_tex
 60010100	Common	Common	Common	HP Potion			icon_items.potion1_tex
 60020100	Common	Common	Common	Holy Potion of Protection			icon_items.potion2_tex
 60020206	Common	Common	Common	Manxome Draught			icon_items.potion2_tex
@@ -11136,23 +11240,23 @@
 60380101	Common	Common	Common	Combat Panacea			icon_items.potion7_rare_tex
 60390100	Common	Common	Common	MP Potion			icon_items.potion19_tex
 60390101	Common	Common	Common	5% Skill Advancement Boost (1 Day)			icon_items.politics_reward_tex
-60390102	Common	Common	Common	5% Skill Advancement Boost (3 Days)			icon_items.politics_reward_tex
-60390103	Common	Common	Common	5% Skill Advancement Boost (7 Days)			icon_items.politics_reward_tex
+60390102	Common	Common	Common	5% Skill Advancement Boost (3 days)			icon_items.politics_reward_tex
+60390103	Common	Common	Common	5% Skill Advancement Boost (7 days)			icon_items.politics_reward_tex
 60390104	Common	Common	Common	5% Skill Advancement Boost (10 Days)			icon_items.politics_reward_tex
 60390105	Common	Common	Common	5% Skill Advancement Boost (15 Days)			icon_items.politics_reward_tex
-60390106	Common	Common	Common	5% Skill Advancement Boost (30 Days)			icon_items.politics_reward_tex
+60390106	Common	Common	Common	5% Skill Advancement Boost (30 days)			icon_items.politics_reward_tex
 60390107	Common	Common	Common	50% Problem Solver XP Boost (1 Day)			icon_items.ach_title_tex
-60390108	Common	Common	Common	50% Problem Solver XP Boost (3 Days)			icon_items.ach_title_tex
-60390109	Common	Common	Common	50% Problem Solver XP Boost (7 Days)			icon_items.ach_title_tex
+60390108	Common	Common	Common	50% Problem Solver XP Boost (3 days)			icon_items.ach_title_tex
+60390109	Common	Common	Common	50% Problem Solver XP Boost (7 days)			icon_items.ach_title_tex
 60390110	Common	Common	Common	50% Problem Solver XP Boost (10 Days)			icon_items.ach_title_tex
 60390111	Common	Common	Common	50% Problem Solver XP Boost (15 Days)			icon_items.ach_title_tex
-60390112	Common	Common	Common	50% Problem Solver XP Boost (30 Days)			icon_items.ach_title_tex
+60390112	Common	Common	Common	50% Problem Solver XP Boost (30 days)			icon_items.ach_title_tex
 60390113	Common	Common	Common	50% Federation Hero XP Boost (1 Day)			icon_items.ach_title_tex
-60390114	Common	Common	Common	50% Federation Hero XP Boost (3 Days)			icon_items.ach_title_tex
-60390115	Common	Common	Common	50% Federation Hero XP Boost (7 Days)			icon_items.ach_title_tex
+60390114	Common	Common	Common	50% Federation Hero XP Boost (3 days)			icon_items.ach_title_tex
+60390115	Common	Common	Common	50% Federation Hero XP Boost (7 days)			icon_items.ach_title_tex
 60390116	Common	Common	Common	50% Federation Hero XP Boost (10 Days)			icon_items.ach_title_tex
 60390117	Common	Common	Common	50% Federation Hero XP Boost (15 Days)			icon_items.ach_title_tex
-60390118	Common	Common	Common	50% Federation Hero XP Boost (30 Days)			icon_items.ach_title_tex
+60390118	Common	Common	Common	50% Federation Hero XP Boost (30 days)			icon_items.ach_title_tex
 60390119	Common	Common	Common	15% Skill Advancement Boost (1 Hour)			icon_items.politics_reward_tex
 60400100	Common	Common	Common	Bomb I			icon_items.bomb1_tex
 60400101	Common	Common	Common	Bomb II			icon_items.bomb2_tex
@@ -11175,6 +11279,7 @@
 60400302	Common	Common	Common	Revealing Water Bomb			icon_items.songkran_waterball_tex
 60400303	Common	Common	Common	Revealing Water Bomb (Rainbow)			icon_items.songkran_rainbowwaterball_tex
 60400305	Common	Common	Common	Oktoberfest Beer			icon_items.beerglass_tex
+60400306	Common	Common	Common	Tree of Lights			icon_items.xmastree_tex
 60401100	Common	Common	Common	Firesnap			icon_items.small_firecracker_tex
 60401201	Common	Common	Common	Firecracker String			icon_items.medium_firecracker_tex
 60401300	Common	Common	Common	Smilecracker			icon_items.smile_firecracker_tex
@@ -11565,6 +11670,9 @@
 61121383	Common	Common	Common	Naga Guard's Belongings			icon_items.dragon_pocket01_tex
 61121384	Common	Common	Common	Twistshard Weapon Crate			icon_items.gift_box04_tex
 61121385	Common	Common	Common	Twistshard Armor Crate			icon_items.gift_box04_tex
+61121390	Common	Common	Common	Gold Yule Treasure Chest			icon_items.premiumbox_dress4_tex
+61121391	Common	Common	Common	Silver Yule Treasure Chest			icon_items.premiumbox_dress3_tex
+61121392	Common	Common	Common	Bronze Yule Treasure Chest			icon_items.premiumbox_dress1_tex
 61180100	Common	Common	Common	Arun's Vitae I Mote			icon_items.potion1_tex
 61180200	Common	Common	Common	Arun's Vitae II Mote			icon_items.potion1_tex
 61180300	Common	Common	Common	Arun's Vitae III Mote			icon_items.potion1_tex
@@ -11684,46 +11792,47 @@
 61900112	Common	Common	Common	Disco Ball			icon_items.mirrorball_tex
 61900120	Common	Common	Common	10% Item XP Boost (2 Hours)			icon_items.itemxp_10_tex
 61900121	Common	Common	Common	10% Item XP Boost (1 Day)			icon_items.itemxp_10_tex
-61900122	Common	Common	Common	10% Item XP Boost (3 Days)			icon_items.itemxp_10_tex
-61900123	Common	Common	Common	10% Item XP Boost (7 Days)			icon_items.itemxp_10_tex
+61900122	Common	Common	Common	10% Item XP Boost (3 days)			icon_items.itemxp_10_tex
+61900123	Common	Common	Common	10% Item XP Boost (7 days)			icon_items.itemxp_10_tex
 61900124	Common	Common	Common	10% Item XP Boost (15 Days)			icon_items.itemxp_10_tex
-61900125	Common	Common	Common	10% Item XP Boost (30 Days)			icon_items.itemxp_10_tex
+61900125	Common	Common	Common	10% Item XP Boost (30 days)			icon_items.itemxp_10_tex
 61900126	Common	Common	Common	20% Item XP Boost (2 Hours)			icon_items.itemxp_20_tex
 61900127	Common	Common	Common	20% Item XP Boost (1 Day)			icon_items.itemxp_20_tex
-61900128	Common	Common	Common	20% Item XP Boost (3 Days)			icon_items.itemxp_20_tex
-61900129	Common	Common	Common	20% Item XP Boost (7 Days)			icon_items.itemxp_20_tex
+61900128	Common	Common	Common	20% Item XP Boost (3 days)			icon_items.itemxp_20_tex
+61900129	Common	Common	Common	20% Item XP Boost (7 days)			icon_items.itemxp_20_tex
 61900130	Common	Common	Common	20% Item XP Boost (15 Days)			icon_items.itemxp_20_tex
-61900131	Common	Common	Common	20% Item XP Boost (30 Days)			icon_items.itemxp_20_tex
+61900131	Common	Common	Common	20% Item XP Boost (30 days)			icon_items.itemxp_20_tex
 61900132	Common	Common	Common	25% Item XP Boost (2 Hours)			icon_items.itemxp_25_tex
 61900133	Common	Common	Common	25% Item XP Boost (1 Day)			icon_items.itemxp_25_tex
-61900134	Common	Common	Common	25% Item XP Boost (3 Days)			icon_items.itemxp_25_tex
-61900135	Common	Common	Common	25% Item XP Boost (7 Days)			icon_items.itemxp_25_tex
+61900134	Common	Common	Common	25% Item XP Boost (3 days)			icon_items.itemxp_25_tex
+61900135	Common	Common	Common	25% Item XP Boost (7 days)			icon_items.itemxp_25_tex
 61900136	Common	Common	Common	25% Item XP Boost (15 Days)			icon_items.itemxp_25_tex
-61900137	Common	Common	Common	25% Item XP Boost (30 Days)			icon_items.itemxp_25_tex
+61900137	Common	Common	Common	25% Item XP Boost (30 days)			icon_items.itemxp_25_tex
 61900138	Common	Common	Common	30% Item XP Boost (2 Hours)			icon_items.itemxp_30_tex
 61900139	Common	Common	Common	30% Item XP Boost (1 Day)			icon_items.itemxp_30_tex
-61900140	Common	Common	Common	30% Item XP Boost (3 Days)			icon_items.itemxp_30_tex
-61900141	Common	Common	Common	30% Item XP Boost (7 Days)			icon_items.itemxp_30_tex
+61900140	Common	Common	Common	30% Item XP Boost (3 days)			icon_items.itemxp_30_tex
+61900141	Common	Common	Common	30% Item XP Boost (7 days)			icon_items.itemxp_30_tex
 61900142	Common	Common	Common	30% Item XP Boost (15 Days)			icon_items.itemxp_30_tex
-61900143	Common	Common	Common	30% Item XP Boost (30 Days)			icon_items.itemxp_30_tex
+61900143	Common	Common	Common	30% Item XP Boost (30 days)			icon_items.itemxp_30_tex
 61900144	Common	Common	Common	Rapid XP Potion (100%)			icon_items.potion12_tex
-61900145	Common	Common	Common	30% EP Boost (3 Days)			icon_items.ep_grow30_tex
-61900146	Common	Common	Common	50% EP Boost (3 Days)			icon_items.ep_grow50_tex
-61900147	Common	Common	Common	100% EP Boost (3 Days)			icon_items.ep_grow100_tex
-61900148	Common	Common	Common	30% EP Boost (7 Days)			icon_items.ep_grow30_tex
-61900149	Common	Common	Common	50% EP Boost (7 Days)			icon_items.ep_grow50_tex
-61900150	Common	Common	Common	100% EP Boost (7 Days)			icon_items.ep_grow100_tex
-61900151	Common	Common	Common	30% EP Boost (14 Days)			icon_items.ep_grow30_tex
-61900152	Common	Common	Common	50% EP Boost (14 Days)			icon_items.ep_grow50_tex
-61900153	Common	Common	Common	100% EP Boost (14 Days)			icon_items.ep_grow100_tex
-61900154	Common	Common	Common	30% EP Boost (30 Days)			icon_items.ep_grow30_tex
-61900155	Common	Common	Common	50% EP Boost (30 Days)			icon_items.ep_grow50_tex
-61900156	Common	Common	Common	100% EP Boost (30 Days)			icon_items.ep_grow100_tex
+61900145	Common	Common	Common	30% EP Boost (3 days)			icon_items.ep_grow30_tex
+61900146	Common	Common	Common	50% EP Boost (3 days)			icon_items.ep_grow50_tex
+61900147	Common	Common	Common	100% EP Boost (3 days)			icon_items.ep_grow100_tex
+61900148	Common	Common	Common	30% EP Boost (7 days)			icon_items.ep_grow30_tex
+61900149	Common	Common	Common	50% EP Boost (7 days)			icon_items.ep_grow50_tex
+61900150	Common	Common	Common	100% EP Boost (7 days)			icon_items.ep_grow100_tex
+61900151	Common	Common	Common	30% EP Boost (14 days)			icon_items.ep_grow30_tex
+61900152	Common	Common	Common	50% EP Boost (14 days)			icon_items.ep_grow50_tex
+61900153	Common	Common	Common	100% EP Boost (14 days)			icon_items.ep_grow100_tex
+61900154	Common	Common	Common	30% EP Boost (30 days)			icon_items.ep_grow30_tex
+61900155	Common	Common	Common	50% EP Boost (30 days)			icon_items.ep_grow50_tex
+61900156	Common	Common	Common	100% EP Boost (30 days)			icon_items.ep_grow100_tex
 61900157	Common	Common	Common	[Event] Rapid XP Potion (50%)			icon_items.potion12_tex
 61900158	Common	Common	Common	[Event] Rapid XP Potion (30%)			icon_items.potion12_tex
 61900159	Common	Common	Common	Swift XP Potion (100%-200%)			icon_items.potion20_tex
 61900160	Common	Common	Common	Swift XP Potion (200%-400%)			icon_items.potion20_tex
 61900161	Common	Common	Common	Swift XP Potion (300%-600%)			icon_items.potion20_tex
+61900162	Common	Common	Common	100% Reputation Boost (15 Days)			icon_items.f2p_reputationbooster_tex
 61900205	Common	Common	Common	[Event] Moongourd Rice Drink			icon_items.pumpkin_drink_tex
 61900206	Common	Common	Common	[Event] Watermelon Juice			icon_items.watermelon_juice_tex
 61900207	Common	Common	Common	[Event] Hanu Bulgogi			icon_items.bulgogi_tex
@@ -12117,6 +12226,8 @@
 65000001	Common	Common	Common	Dismount			icon_skills.fv_unride_tex
 65000002	Common	Common	Common	Dive			icon_skills.fv_downhill_tex
 65000100	Common	Common	Common	Simple Cleansing Brooch			icon_items.stoneoflife_tex
+65000101	Common	Common	Common	Argon Priest Essence			icon_items.potion1_tex
+65000102	Common	Common	Common	Kelsaik's Avatar's Essence			icon_items.potion1_tex
 65000200	Common	Common	Common	Winter Update Intermediate Accessory			icon_items.refine_heart16_tex
 65000300	Common	Common	Common	Iridescent Powerful Brooch			icon_items.beautiful_wings_brooch_cachebar_tex
 65000400	Common	Common	Common	Iridescent Keen Brooch			icon_items.beautiful_wings_brooch_cachebar_tex
@@ -12127,6 +12238,7 @@
 65000511	Common	Common	Common	Marrow Brooch			icon_items.brooch_vergos_tex
 65000512	Common	Common	Common	Powerful Goddess's Brooch			icon_items.parts_magicweaponc8_tex
 65000513	Common	Common	Common	Dracoloth Brooch			icon_items.brooch_vergos_tex
+65000514	Common	Common	Common	Azkan's Ferocious Brooch			icon_items.brooch_azenbant_tex
 65000600	Common	Common	Common	Quickcarve Brooch			icon_items.goddess_brooch_tex
 65000601	Common	Common	Common	Simple Quickcarve Brooch			icon_items.goddess_brooch_tex
 65000650	Common	Common	Common	Grounding Brooch			icon_items.goddess_brooch_tex

@@ -759,8 +759,8 @@
 139004	Valkyon Federation
 139800	Quests:
 140001	All You Need is Lore
-140002	Completed 200 quests...and you read them all, right?
-140003	Completed 200 quests...and you read them all, right?
+140002	Completed 150 quests...and you read them all, right?
+140003	Completed 150 quests...and you read them all, right?
 140004	Valkyon Federation
 140501	Loremaster
 140800	Quests:
@@ -3818,10 +3818,10 @@
 804004	Valkyon Federation
 804800	Earned 30,000 total Bellicarium credits.
 805001	Credit to the Family
-805002	Earned 5,000 total Jax Trust reputation credits.
-805003	Earned 5,000 total Jax Trust reputation credits.
+805002	Earned 3 000 total Jax Trust reputation credits.
+805003	Earned 3 000 total Jax Trust reputation credits.
 805004	Valkyon Federation
-805800	Earned 5,000 total Jax Trust Guild reputation credits.
+805800	Earned 3 000 total Jax Trust Guild reputation credits.
 806001	Extra Credit
 806002	Earned 30,000 total Killing Spree reputation credits.
 806003	Earned 30,000 total Killing Spree reputation credits.
@@ -10542,6 +10542,18 @@
 520059004	TERA Team
 520059501	Tower of Nightmares
 520059800	Montori's Vanquisher
+520060001	Lord of Wonder
+520060002	Master Wonderholme (Extreme) 31 times in winter 2019.
+520060003	Master Wonderholme (Extreme) 31 times.
+520060004	TERA Team
+520060501	Lord of Wonder
+520060800	Master Wonderholme (Extreme) 31 times.
+520061001	Tentacular
+520061002	Master the Abscess (Extreme) 77 times in winter 2019.
+520061003	Master the Abscess (Extreme) 77 times.
+520061004	TERA Team
+520061501	Liberator
+520061800	Master the Abscess (Extreme) 77 times.
 525000001	Lore Apprentice
 525000002	Lore items A, B, C
 525000003	Lore items A, B, C
@@ -10698,6 +10710,24 @@
 525025004	TERA Team
 525025501	Dummy 20
 525025800	Dummy 20
+525026001	Giver of Life
+525026002	You helped En Masse achieve a charity goal! You're a charitable champion!
+525026003	You have a big heart! You helped En Masse achieve the goal of $5000 to Extra Life charity—which means you're helping save lives! You truly are the Giver of Life.
+525026004	TERA Team
+525026501	Giver of Life
+525026800	You helped En Masse achieve a charity goal! You're a charitable champion!
+525027001	Heart of Gold
+525027002	You donated $35 or more to Extra Life! You're a charitable charm!
+525027003	You have a Heart of Gold and donated generously to Extra Life. You're helping support our local Children's Miracle Network Hospital! Your Heart of Gold will help someone in need.
+525027004	TERA Team
+525027501	Heart of Gold
+525027800	You donated $35 or more to Extra Life! You're a charitable charm!
+525028001	Extra Life QT
+525028002	You donated $25 to Extra Life! You're a charitable cutie!
+525028003	You're an Extra Life QT and donated to Extra Life. You're helping support our local Children's Miracle Network Hospital! Your donation will help someone in need.
+525028004	TERA Team
+525028501	Extra Life QT
+525028800	You donated $25 to Extra Life! You're a charitable cutie!
 530009001	collection_title1
 530009002	Complete milestone of event "Altar of cards" and use special item from reward to get achievment
 530009003	Unique title. Colour: white

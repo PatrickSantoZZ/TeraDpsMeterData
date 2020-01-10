@@ -867,6 +867,9 @@
 6034	47	Buff	True	perc	1800000	0	1.05	智慧的箱子 II (5% 增加)			從神獸接收而來的古代智慧效果持續時間內 <font color = '#66bbff'>技能鍛鍊經驗值</font> 獲得量增加 5%。	icon_items.icon_spexp_tex	icon_items.icon_spexp_tex	True
 6035	47	Buff	True	perc	1800000	0	1.07	智慧的箱子 II (7% 增加)			從神獸接收而來的古代智慧效果持續時間內 <font color = '#66bbff'>技能鍛鍊經驗值</font> 獲得量增加 7%。	icon_items.icon_spexp_tex	icon_items.icon_spexp_tex	True
 6036	47	Buff	True	perc	1800000	0	1.09	智慧的箱子 II (9% 增加)			從神獸接收而來的古代智慧效果持續時間內 <font color = '#66bbff'>技能鍛鍊經驗值</font> 獲得量增加 9%。	icon_items.icon_spexp_tex	icon_items.icon_spexp_tex	True
+6039	0	Buff	True	swch	3600000	0	0	阿勒卡夫的力量			受到阿勒卡夫的力量，可使用飛行與阿勒卡夫跳躍台。	icon_items.orb_of_dragonpower_tex	icon_items.orb_of_dragonpower_tex	True
+6040	CritPower1	Buff	True	abs	6000	0	1	冰龍主人			攻擊怪物時爆擊威力增加$H_W_GOOD+1.5$COLOR_END倍。	icon_skills.dragonhit1_tex	icon_skills.dragonhit1_tex	True
+6041	CritPower1	Buff	True	abs	6000	0	2	極冰龍主人			攻擊怪物時爆擊威力增加$H_W_GOOD+2$COLOR_END倍。	icon_skills.dragonhit2_tex	icon_skills.dragonhit2_tex	True
 10100	HPChange	DOT	False	abs	5000	1	-11	猛毒 I [水晶] 			每$H_W_BAD1s$COLOR_END持續減少$H_W_BAD-11$COLOR_END的HP。	icon_items.customize9ar_tex	icon_items.customize9ar_tex	True
 10101	HPChange	DOT	False	abs	5000	1	-23	猛毒 II [水晶] 			每$H_W_BAD1s$COLOR_END持續減少$H_W_BAD-23$COLOR_END的HP。	icon_items.customize9br_tex	icon_items.customize9br_tex	True
 10102	HPChange	DOT	False	abs	5000	1	-58	猛毒 III [水晶] 			每$H_W_BAD1s$COLOR_END持續減少$H_W_BAD-58$COLOR_END的HP。	icon_items.customize9cr_tex	icon_items.customize9cr_tex	True
@@ -1493,6 +1496,7 @@
 33170	HPChange	Buff	True	perc	6000	1	0.03	月光的庇護(特質紋章)			每$H_W_GOOD1s$COLOR_END，持續恢復相當於整體HP的$H_W_GOOD 3%$COLOR_END之HP。	icon_skills.moongracebuff_tex	icon_crest.crestpassivehpheal_tex	True
 33200	AtkPotion	Buff	True	perc	5000	0	1.3	技能威力增加 [連續鬥志紋章]			以怪物為對象，下一波攻擊技能威力增加30%。	icon_crest.crestpassiveattackup_tex	icon_crest.crestpassiveattackup_tex	True
 33210	AtkPotion	Buff	True	perc	5000	0	1.25	月光的引力(連續鬥志紋章 [月光的共鳴] )			以連續技能使用[月光的共鳴]時，技能威力增加力量$H_W_GOOD25%$COLOR_END。	icon_skills.moongravity_tex	icon_crest.crestnextskillattackup_tex	True
+33220	DelayedEffect	Buff	True	swch	300	0	33221	迴避(機會紋章)				icon_skills.moonshadow_tex	icon_skills.moonshadow_tex	False
 45301	StackCounter	Debuff	False	swch	30000	0	45302	強力衝擊			被砲彈打到受到強大衝擊。	icon_status.minusdefence_tex	icon_status.minusdefence_tex	True
 45302	StunKnockDown	Debuff	False	swch	20000	0	2	均衡喪失			受到強大衝擊失去平衡而跌倒。	icon_status.minuscriticalresist_tex	icon_status.minuscriticalresist_tex	True
 46700	Endurance	Debuff	False	perc	0	0	1	目標確認用0				icon_skills.markingofarcher_tex	icon_skills.markingofarcher_tex	False
@@ -2051,7 +2055,9 @@
 100801	Endurance	Buff	True	perc	0	0	1	必殺意志 II			20s內，爆擊機率增加 $H_W_GOOD50%$COLOR_END。效果持續時間期間，除了刀刃暴風之外的近距離攻擊技能之冷卻時間減半，持續時間中下列技能會強化。$BR - [旋風擊 IX]: 有 10%的追加傷害，能量條累積 2倍。$BR - [無雙亂舞：劈擊 IX]: 有 10%的追加傷害，能量條累積 2倍。$BR - [疾風劈擊 IX]: 技能威力增加 10%，範圍增加 20%。	icon_skills.deadlywill_tex	icon_skills.deadlywill_tex	True
 100801	CritChance	Buff	True	perc	20000	0	1.5	必殺意志 II			20s內，爆擊機率增加 $H_W_GOOD50%$COLOR_END。效果持續時間期間，除了刀刃暴風之外的近距離攻擊技能之冷卻時間減半，持續時間中下列技能會強化。$BR - [旋風擊 IX]: 有 10%的追加傷害，能量條累積 2倍。$BR - [無雙亂舞：劈擊 IX]: 有 10%的追加傷害，能量條累積 2倍。$BR - [疾風劈擊 IX]: 技能威力增加 10%，範圍增加 20%。	icon_skills.deadlywill_tex	icon_skills.deadlywill_tex	True
 100801	CDR	Buff	True	swch	20000	0	0.5	必殺意志 II			20s內，爆擊機率增加 $H_W_GOOD50%$COLOR_END。效果持續時間期間，除了刀刃暴風之外的近距離攻擊技能之冷卻時間減半，持續時間中下列技能會強化。$BR - [旋風擊 IX]: 有 10%的追加傷害，能量條累積 2倍。$BR - [無雙亂舞：劈擊 IX]: 有 10%的追加傷害，能量條累積 2倍。$BR - [疾風劈擊 IX]: 技能威力增加 10%，範圍增加 20%。	icon_skills.deadlywill_tex	icon_skills.deadlywill_tex	True
+100801	ReloadingSkill	Buff	True	swch	1000	0	552	必殺意志 II			20s內，爆擊機率增加 $H_W_GOOD50%$COLOR_END。效果持續時間期間，除了刀刃暴風之外的近距離攻擊技能之冷卻時間減半，持續時間中下列技能會強化。$BR - [旋風擊 IX]: 有 10%的追加傷害，能量條累積 2倍。$BR - [無雙亂舞：劈擊 IX]: 有 10%的追加傷害，能量條累積 2倍。$BR - [疾風劈擊 IX]: 技能威力增加 10%，範圍增加 20%。	icon_skills.deadlywill_tex	icon_skills.deadlywill_tex	True
 100811	CDR	Buff	True	swch	0	0	1.5	必殺意志 II			20s內，爆擊機率增加 $H_W_GOOD50%$COLOR_END。效果持續時間期間，除了刀刃暴風之外的近距離攻擊技能之冷卻時間減半，持續時間中下列技能會強化。$BR - [旋風擊 IX]: 有 10%的追加傷害，能量條累積 2倍。$BR - [無雙亂舞：劈擊 IX]: 有 10%的追加傷害，能量條累積 2倍。$BR - [疾風劈擊 IX]: 技能威力增加 10%，範圍增加 20%。	icon_skills.deadlywill_tex	icon_skills.deadlywill_tex	False
+100812	ReloadingSkill	Buff	True	swch	1000	0	552	必殺意志 II			20s內，爆擊機率增加 $H_W_GOOD50%$COLOR_END。效果持續時間期間，除了刀刃暴風之外的近距離攻擊技能之冷卻時間減半，持續時間中下列技能會強化。$BR - [旋風擊 IX]: 有 10%的追加傷害，能量條累積 2倍。$BR - [無雙亂舞：劈擊 IX]: 有 10%的追加傷害，能量條累積 2倍。$BR - [疾風劈擊 IX]: 技能威力增加 10%，範圍增加 20%。	icon_skills.deadlywill_tex	icon_skills.deadlywill_tex	False
 100900	Stun	Stun	False	swch	4000	0	5	強襲砍擊 I			昏厥狀態無法行動。	icon_skills.hardslash_tex	icon_skills.hardslash_tex	True
 100901	Stun	Stun	False	swch	4000	0	5	強襲砍擊 II			昏厥狀態無法行動。	icon_skills.hardslash_tex	icon_skills.hardslash_tex	True
 100902	Stun	Stun	False	swch	4000	0	5	強襲砍擊 III			昏厥狀態無法做任何動作。	icon_skills.hardslash_tex	icon_skills.hardslash_tex	True
@@ -2191,9 +2197,9 @@
 201600	KnockDownChance	Buff	True	perc	6000	0	0	戰線維護 I			效果持續時，對擊倒及僵直免疫。	icon_skills.holdtheline_tex	icon_skills.holdtheline_tex	True
 201600	StatusImmune	Buff	True	swch	6000	0	0	戰線維護 I			效果持續時，對擊倒及僵直免疫。	icon_skills.holdtheline_tex	icon_skills.holdtheline_tex	True
 201700	181	Buff	True	abs	1000	0	50	盾牌防禦強化 I 			看不見的異常狀態	icon_skills.defence_tex	icon_skills.defence_tex	False
-201701	Power	Buff	True	abs	50000	0	4	盾牌防禦強化 I 			各重疊會使仇恨值提升 $H_W_GOOD4%$COLOR_END、力量提升$H_W_GOOD4$COLOR_END、暴擊誘發提升$H_W_GOOD6$COLOR_END。最多可以重疊 10次，被擊中時將解除。	icon_skills.defence_tex	icon_skills.defence_tex	True
-201701	Crit	Buff	True	abs	50000	0	6	盾牌防禦強化 I 			各重疊會使仇恨值提升 $H_W_GOOD4%$COLOR_END、力量提升$H_W_GOOD4$COLOR_END、暴擊誘發提升$H_W_GOOD6$COLOR_END。最多可以重疊 10次，被擊中時將解除。	icon_skills.defence_tex	icon_skills.defence_tex	True
-201701	Aggro	Buff	True	perc	50000	0	1.04	盾牌防禦強化 I 			各重疊會使仇恨值提升 $H_W_GOOD4%$COLOR_END、力量提升$H_W_GOOD4$COLOR_END、暴擊誘發提升$H_W_GOOD6$COLOR_END。最多可以重疊 10次，被擊中時將解除。	icon_skills.defence_tex	icon_skills.defence_tex	True
+201701	Power	Buff	True	abs	50000	0	8	盾牌防禦強化 I 			各重疊會使仇恨值提升 $H_W_GOOD8%$COLOR_END、力量提升 $H_W_GOOD8$COLOR_END、暴擊誘發提升$H_W_GOOD12$COLOR_END最多可以重疊5次，倒下即解除。	icon_skills.defence_tex	icon_skills.defence_tex	True
+201701	Crit	Buff	True	abs	50000	0	12	盾牌防禦強化 I 			各重疊會使仇恨值提升 $H_W_GOOD8%$COLOR_END、力量提升 $H_W_GOOD8$COLOR_END、暴擊誘發提升$H_W_GOOD12$COLOR_END最多可以重疊5次，倒下即解除。	icon_skills.defence_tex	icon_skills.defence_tex	True
+201701	Aggro	Buff	True	perc	50000	0	1.08	盾牌防禦強化 I 			各重疊會使仇恨值提升 $H_W_GOOD8%$COLOR_END、力量提升 $H_W_GOOD8$COLOR_END、暴擊誘發提升$H_W_GOOD12$COLOR_END最多可以重疊5次，倒下即解除。	icon_skills.defence_tex	icon_skills.defence_tex	True
 201702	StaggerImmune	Buff	True	seta	20000	0	0	挑撥咆哮			戰鬥時，除了怪物的部分特殊攻擊外，其餘皆無法抵抗。	icon_skills.roar_tex	icon_skills.roar_tex	True
 201799	MaxHP	Buff	True	perc	0	0	1	叉槍鎖鏈免疫			持續時間內對叉槍鎖鏈技能免疫。此效果無法淨化。	icon_skills.harpoonshot_tex	icon_skills.harpoonshot_tex	False
 201800	MaxHP	Stun	False	perc	3000	0	1	挑撥咆哮			成為叉槍鎖鏈技能的目標且印下烙印的狀態。無法淨化，反應時解除。	icon_skills.roar_tex	icon_skills.roar_tex	True
@@ -4740,6 +4746,12 @@
 3000032	MaxHP	Buff	True	perc	0	0	1	神獸坐騎搭乘(HP,MP恢復)			在允許飛行的地方可騎乘飛行。<BR>騎乘時，每秒恢復總HP和MP值的2%。可套用[靈物]效果。	icon_items.wings_of_fairy_tex	icon_items.wings_of_fairy_tex	True
 3000032	HPChange	Buff	True	perc	0	1	0.02	神獸坐騎搭乘(HP,MP恢復)			在允許飛行的地方可騎乘飛行。<BR>騎乘時，每秒恢復總HP和MP值的2%。可套用[靈物]效果。	icon_items.wings_of_fairy_tex	icon_items.wings_of_fairy_tex	True
 3000032	MPChange	Buff	True	perc	0	1	0.02	神獸坐騎搭乘(HP,MP恢復)			在允許飛行的地方可騎乘飛行。<BR>騎乘時，每秒恢復總HP和MP值的2%。可套用[靈物]效果。	icon_items.wings_of_fairy_tex	icon_items.wings_of_fairy_tex	True
+3000033	MaxHP	Buff	True	perc	0	0	1	搭乘凜冬冰晶飛龍 (MP、HP恢復)			在允許的地方可騎乘飛行。<BR>每秒恢復1%的HP與MP。可套用[靈物]效果。	icon_items.wings_of_fairy_tex	icon_items.wings_of_fairy_tex	True
+3000033	HPChange	Buff	True	perc	0	1	0.01	搭乘凜冬冰晶飛龍 (MP、HP恢復)			在允許的地方可騎乘飛行。<BR>每秒恢復1%的HP與MP。可套用[靈物]效果。	icon_items.wings_of_fairy_tex	icon_items.wings_of_fairy_tex	True
+3000033	MPChange	Buff	True	perc	0	1	0.01	搭乘凜冬冰晶飛龍 (MP、HP恢復)			在允許的地方可騎乘飛行。<BR>每秒恢復1%的HP與MP。可套用[靈物]效果。	icon_items.wings_of_fairy_tex	icon_items.wings_of_fairy_tex	True
+3000034	MaxHP	Buff	True	perc	0	0	1	搭乘凜冬冰晶飛龍 (MP、HP恢復)			在允許的地方可騎乘飛行。<BR>每秒恢復2%的HP與MP。可套用[靈物]效果。	icon_items.wings_of_fairy_tex	icon_items.wings_of_fairy_tex	True
+3000034	HPChange	Buff	True	perc	0	1	0.02	搭乘凜冬冰晶飛龍 (MP、HP恢復)			在允許的地方可騎乘飛行。<BR>每秒恢復2%的HP與MP。可套用[靈物]效果。	icon_items.wings_of_fairy_tex	icon_items.wings_of_fairy_tex	True
+3000034	MPChange	Buff	True	perc	0	1	0.02	搭乘凜冬冰晶飛龍 (MP、HP恢復)			在允許的地方可騎乘飛行。<BR>每秒恢復2%的HP與MP。可套用[靈物]效果。	icon_items.wings_of_fairy_tex	icon_items.wings_of_fairy_tex	True
 3012000	Power	Buff	True	abs	1800000	0	40	訓練所_祭司增益效果			亞倫的祝福III、神聖閃電IV 效果持續，強化全神卷軸IV每25秒套用。	icon_skills.judgmentaura_tex	icon_skills.judgmentaura_tex	True
 3012000	Endurance	Buff	True	abs	1800000	0	11	訓練所_祭司增益效果			亞倫的祝福III、神聖閃電IV 效果持續，強化全神卷軸IV每25秒套用。	icon_skills.judgmentaura_tex	icon_skills.judgmentaura_tex	True
 3012000	AllResist	Buff	True	abs	1800000	0	5	訓練所_祭司增益效果			亞倫的祝福III、神聖閃電IV 效果持續，強化全神卷軸IV每25秒套用。	icon_skills.judgmentaura_tex	icon_skills.judgmentaura_tex	True
@@ -5586,18 +5598,18 @@
 10153010	281	Buff	True	perc	500	0	1.4	平靜				icon_skills.relax_tex	icon_skills.relax_tex	False
 10153020	Block	Stun	False	swch	3000	0	0	強打 (防禦)			在半空中失重，無法提起精神。	icon_skills.smashattack02_tex	icon_skills.lossofbalance_tex	True
 10153030	Stun	Stun	False	swch	3000	0	5	飛踢			因為被攻擊頭部，暫時昏厥了。	icon_skills.airkick_tex	icon_skills.concussion_tex	True
-10153040	Power	Buff	True	abs	0	0	45	巨人之力 (防禦)			效果持續期間，所有攻擊技能使用並 <font color = '#66bbff'>朝前方展開防禦</font>時，身體及仇恨值增加 10%, 力量 45, 爆擊觸發增加 50和攻擊速度 10，所有技能冷卻時間減少30%。	icon_skills.rampage_tex	icon_skills.rampage_tex	True
-10153040	Crit	Buff	True	abs	0	0	50	巨人之力 (防禦)			效果持續期間，所有攻擊技能使用並 <font color = '#66bbff'>朝前方展開防禦</font>時，身體及仇恨值增加 10%, 力量 45, 爆擊觸發增加 50和攻擊速度 10，所有技能冷卻時間減少30%。	icon_skills.rampage_tex	icon_skills.rampage_tex	True
-10153040	ASpd	Buff	True	abs	0	0	-10	巨人之力 (防禦)			效果持續期間，所有攻擊技能使用並 <font color = '#66bbff'>朝前方展開防禦</font>時，身體及仇恨值增加 10%, 力量 45, 爆擊觸發增加 50和攻擊速度 10，所有技能冷卻時間減少30%。	icon_skills.rampage_tex	icon_skills.rampage_tex	True
-10153040	RageChange	Buff	True	abs	0	1	-250	巨人之力 (防禦)			效果持續期間，所有攻擊技能使用並 <font color = '#66bbff'>朝前方展開防禦</font>時，身體及仇恨值增加 10%, 力量 45, 爆擊觸發增加 50和攻擊速度 10，所有技能冷卻時間減少30%。	icon_skills.rampage_tex	icon_skills.rampage_tex	True
-10153040	CDR	Buff	True	swch	0	0	0.7	巨人之力 (防禦)			效果持續期間，所有攻擊技能使用並 <font color = '#66bbff'>朝前方展開防禦</font>時，身體及仇恨值增加 10%, 力量 45, 爆擊觸發增加 50和攻擊速度 10，所有技能冷卻時間減少30%。	icon_skills.rampage_tex	icon_skills.rampage_tex	True
-10153040	Block	Buff	True	swch	0	0	0	巨人之力 (防禦)			效果持續期間，所有攻擊技能使用並 <font color = '#66bbff'>朝前方展開防禦</font>時，身體及仇恨值增加 10%, 力量 45, 爆擊觸發增加 50和攻擊速度 10，所有技能冷卻時間減少30%。	icon_skills.rampage_tex	icon_skills.rampage_tex	True
-10153040	Range	Buff	True	swch	0	0	0.1	巨人之力 (防禦)			效果持續期間，所有攻擊技能使用並 <font color = '#66bbff'>朝前方展開防禦</font>時，身體及仇恨值增加 10%, 力量 45, 爆擊觸發增加 50和攻擊速度 10，所有技能冷卻時間減少30%。	icon_skills.rampage_tex	icon_skills.rampage_tex	True
-10153040	ReloadingSkill	Buff	True	swch	1000	0	92013	巨人之力 (防禦)			效果持續期間，所有攻擊技能使用並 <font color = '#66bbff'>朝前方展開防禦</font>時，身體及仇恨值增加 10%, 力量 45, 爆擊觸發增加 50和攻擊速度 10，所有技能冷卻時間減少30%。	icon_skills.rampage_tex	icon_skills.rampage_tex	True
-10153040	SuperArmor	Buff	True	swch	0	0	0	巨人之力 (防禦)			效果持續期間，所有攻擊技能使用並 <font color = '#66bbff'>朝前方展開防禦</font>時，身體及仇恨值增加 10%, 力量 45, 爆擊觸發增加 50和攻擊速度 10，所有技能冷卻時間減少30%。	icon_skills.rampage_tex	icon_skills.rampage_tex	True
-10153041	Block	Buff	True	swch	0	0	0	巨人的力量			效果持續期間，所有攻擊技能使用並 <font color = '#66bbff'>朝前方展開防禦</font>時，身體及仇恨值增加 10%, 力量 45, 爆擊觸發增加 50和攻擊速度 10，所有技能冷卻時間減少30%。	icon_skills.rampage_tex	icon_skills.rampage_tex	False
-10153042	Block	Buff	True	swch	0	0	0	巨人的力量			效果持續期間，所有攻擊技能使用並 <font color = '#66bbff'>朝前方展開防禦</font>時，身體及仇恨值增加 10%, 力量 45, 爆擊觸發增加 50和攻擊速度 10，所有技能冷卻時間減少30%。	icon_skills.rampage_tex	icon_skills.rampage_tex	False
-10153044	ReloadingSkill	Buff	True	swch	1000	0	92013	巨人的力量			效果持續期間，所有攻擊技能使用並 <font color = '#66bbff'>朝前方展開防禦</font>時，身體及仇恨值增加 10%, 力量 45, 爆擊觸發增加 50和攻擊速度 10，所有技能冷卻時間減少30%。	icon_skills.rampage_tex	icon_skills.rampage_tex	False
+10153040	Power	Buff	True	abs	0	0	45	巨人之力 (防禦)			效果持續期間，所有攻擊技能使用並 <font color = '#66bbff'>朝前方展開防禦</font>時， 增加身體10%、仇恨值25%、力量 45、爆擊觸發 50和攻擊速度 10，所有技能冷卻時間減少30%。	icon_skills.rampage_tex	icon_skills.rampage_tex	True
+10153040	Crit	Buff	True	abs	0	0	50	巨人之力 (防禦)			效果持續期間，所有攻擊技能使用並 <font color = '#66bbff'>朝前方展開防禦</font>時， 增加身體10%、仇恨值25%、力量 45、爆擊觸發 50和攻擊速度 10，所有技能冷卻時間減少30%。	icon_skills.rampage_tex	icon_skills.rampage_tex	True
+10153040	ASpd	Buff	True	abs	0	0	-10	巨人之力 (防禦)			效果持續期間，所有攻擊技能使用並 <font color = '#66bbff'>朝前方展開防禦</font>時， 增加身體10%、仇恨值25%、力量 45、爆擊觸發 50和攻擊速度 10，所有技能冷卻時間減少30%。	icon_skills.rampage_tex	icon_skills.rampage_tex	True
+10153040	RageChange	Buff	True	abs	0	1	-250	巨人之力 (防禦)			效果持續期間，所有攻擊技能使用並 <font color = '#66bbff'>朝前方展開防禦</font>時， 增加身體10%、仇恨值25%、力量 45、爆擊觸發 50和攻擊速度 10，所有技能冷卻時間減少30%。	icon_skills.rampage_tex	icon_skills.rampage_tex	True
+10153040	CDR	Buff	True	swch	0	0	0.7	巨人之力 (防禦)			效果持續期間，所有攻擊技能使用並 <font color = '#66bbff'>朝前方展開防禦</font>時， 增加身體10%、仇恨值25%、力量 45、爆擊觸發 50和攻擊速度 10，所有技能冷卻時間減少30%。	icon_skills.rampage_tex	icon_skills.rampage_tex	True
+10153040	Block	Buff	True	swch	0	0	0	巨人之力 (防禦)			效果持續期間，所有攻擊技能使用並 <font color = '#66bbff'>朝前方展開防禦</font>時， 增加身體10%、仇恨值25%、力量 45、爆擊觸發 50和攻擊速度 10，所有技能冷卻時間減少30%。	icon_skills.rampage_tex	icon_skills.rampage_tex	True
+10153040	Range	Buff	True	swch	0	0	0.1	巨人之力 (防禦)			效果持續期間，所有攻擊技能使用並 <font color = '#66bbff'>朝前方展開防禦</font>時， 增加身體10%、仇恨值25%、力量 45、爆擊觸發 50和攻擊速度 10，所有技能冷卻時間減少30%。	icon_skills.rampage_tex	icon_skills.rampage_tex	True
+10153040	ReloadingSkill	Buff	True	swch	1000	0	92013	巨人之力 (防禦)			效果持續期間，所有攻擊技能使用並 <font color = '#66bbff'>朝前方展開防禦</font>時， 增加身體10%、仇恨值25%、力量 45、爆擊觸發 50和攻擊速度 10，所有技能冷卻時間減少30%。	icon_skills.rampage_tex	icon_skills.rampage_tex	True
+10153040	SuperArmor	Buff	True	swch	0	0	0	巨人之力 (防禦)			效果持續期間，所有攻擊技能使用並 <font color = '#66bbff'>朝前方展開防禦</font>時， 增加身體10%、仇恨值25%、力量 45、爆擊觸發 50和攻擊速度 10，所有技能冷卻時間減少30%。	icon_skills.rampage_tex	icon_skills.rampage_tex	True
+10153041	Block	Buff	True	swch	0	0	0	巨人的力量			效果持續期間，所有攻擊技能使用並 <font color = '#66bbff'>朝前方展開防禦</font>時， 增加身體10%、仇恨值25%、力量 45、爆擊觸發 50和攻擊速度 10，所有技能冷卻時間減少30%。	icon_skills.rampage_tex	icon_skills.rampage_tex	False
+10153042	Block	Buff	True	swch	0	0	0	巨人的力量			效果持續期間，所有攻擊技能使用並 <font color = '#66bbff'>朝前方展開防禦</font>時， 增加身體10%、仇恨值25%、力量 45、爆擊觸發 50和攻擊速度 10，所有技能冷卻時間減少30%。	icon_skills.rampage_tex	icon_skills.rampage_tex	False
+10153044	ReloadingSkill	Buff	True	swch	1000	0	92013	巨人的力量			效果持續期間，所有攻擊技能使用並 <font color = '#66bbff'>朝前方展開防禦</font>時， 增加身體10%、仇恨值25%、力量 45、爆擊觸發 50和攻擊速度 10，所有技能冷卻時間減少30%。	icon_skills.rampage_tex	icon_skills.rampage_tex	False
 10153050	209	Buff	True	perc	0	0	0	充斥的憤怒			無法累積憤怒。	icon_skills.flaringanger_tex	icon_skills.flaringanger_tex	True
 10153052	33	Buff	True	seta	30000	0	0	戰鬥的欲望			憤怒沒有消失。	icon_skills.desireofbattle_tex	icon_skills.desireofbattle_tex	True
 10153053	33	Buff	True	seta	60000	0	0	充斥的憤怒			無法累積憤怒。	icon_skills.flaringanger_tex	icon_skills.flaringanger_tex	True
@@ -5843,6 +5855,20 @@
 20520008	313	DOT	True	swch	5000	0	0.4	強化能量 III			阿比溫的能量暴走，軍團兵瘋狂亂竄。	icon_status.darkriftarearage_tex	icon_status.darkriftarearage_tex	True
 20520009	HPLoss	DOT	True	abs	500	0	-10000000000	強化能量 I			接收阿比溫的能量，軍團兵變得強大。	icon_skills.berserk_tex	icon_skills.berserk_tex	False
 20520009	313	DOT	True	swch	500	0	0.4	強化能量 I			接收阿比溫的能量，軍團兵變得強大。	icon_skills.berserk_tex	icon_skills.berserk_tex	False
+20540002	Reflect	Buff	True	abs	12000	1	-50000	魔力保護膜			亞黔班特凝聚魔力形成抵擋傷害的保護膜。	icon_skills.emergencyshield_tex	icon_skills.emergencyshield_tex	True
+20540002	DelayedEffect	Buff	True	swch	12000	0	20540008	魔力保護膜			亞黔班特凝聚魔力形成抵擋傷害的保護膜。	icon_skills.emergencyshield_tex	icon_skills.emergencyshield_tex	True
+20540002	Absorb	Buff	True	abs	12000	0	2000000000	魔力保護膜			亞黔班特凝聚魔力形成抵擋傷害的保護膜。	icon_skills.emergencyshield_tex	icon_skills.emergencyshield_tex	True
+20540007	StunKnockDown	Buff	True	swch	5000	0	2	精疲力盡			無處可去的魔力流向了亞黔班特，亞黔班特暫時無法動彈。	icon_status.confusedown_tex	icon_status.confusedown_tex	True
+20540008	0	Debuff	True	swch	1000	0	0	魔力保護膜			亞黔班特凝聚魔力形成抵擋傷害的保護膜。	icon_skills.emergencyshield_tex	icon_skills.emergencyshield_tex	False
+20540016	Stun	Stun	False	swch	4000	0	5	暈厥			4秒內成為暈厥狀態。	icon_status.confuseup_tex	icon_status.confuseup_tex	True
+20540025	Attack	Debuff	True	perc	30000	0	6	不安定的魔力			傳點的強烈魔力滲入了。$BR持續時間內技能傷害增加 $H_W_GOOD500%$COLOR_END 。	icon_status.fullelectriceffect_tex	icon_status.fullelectriceffect_tex	True
+20540028	NoHeal	Stun	True	seta	20000	0	0	被汙染的魔力			被亞黔班特的魔力汙染了。持續時間內無法恢復體力。	icon_status.minddomination_tex	icon_status.minddomination_tex	True
+20540030	MPChange	DOT	False	perc	3000	1	-0.08	魔力的渴望			亞黔班特持續吸收魔力。$BRMP 每1秒減少 8%。	icon_status.mprecoverdown_tex	icon_status.mprecoverdown_tex	True
+20540032	NoHeal	DOT	True	abs	7000	1	0	噴發的魔力			因為強大的魔力騰空而起，無法動彈。$BR持續時間內無法恢復 MP。	icon_status.omniousspell_tex	icon_status.omniousspell_tex	True
+20540032	Block	DOT	True	swch	7000	0	0	噴發的魔力			因為強大的魔力騰空而起，無法動彈。$BR持續時間內無法恢復 MP。	icon_status.omniousspell_tex	icon_status.omniousspell_tex	True
+20540032	274	DOT	True	swch	7000	0	1000	噴發的魔力			因為強大的魔力騰空而起，無法動彈。$BR持續時間內無法恢復 MP。	icon_status.omniousspell_tex	icon_status.omniousspell_tex	True
+20540033	MovSpd	Debuff	False	setp	8000	0	0.3	鈍化			亞黔班特的魔力使身體於持續時間內鈍化，無法使用技能。	icon_status.minusmove_tex	icon_status.minusmove_tex	True
+20540033	Block	Debuff	False	swch	8000	0	0	鈍化			亞黔班特的魔力使身體於持續時間內鈍化，無法使用技能。	icon_status.minusmove_tex	icon_status.minusmove_tex	True
 21030001	DotResist	Buff	True	seta	99999999	0	1	阿勒卡夫的力量 I			可使用艾索杜勒機關室內 1~2層間的移動裝置。	icon_status.passive_dragonblood	icon_status.passive_dragonblood	True
 21030002	DotResist	Buff	True	seta	99999999	0	1	阿勒卡夫的力量 II			可使用艾索杜勒機關室內 2~3層間的移動裝置。	icon_status.passive_dragonblood	icon_status.passive_dragonblood	True
 25020001	44	DOT	True	abs	2000	1	-0.55	派勒普的紅色精氣			派勒普為了護衛蜂皇的飛行，以散發出的精氣減少飛行性能。	icon_items.q_bugbutterfly_tex	icon_items.q_bugbutterfly_tex	True
@@ -5884,7 +5910,9 @@
 30000014	1004	Buff	True	abs	5000	0	1400	魔法抵抗增加			5秒間魔法抵抗增加 1400。(冷卻時間 60秒)	icon_status.plusedefence_tex	icon_status.plusedefence_tex	True
 30000015	1001	Buff	True	abs	5000	0	700	物理增幅增加			5秒間物理增幅增加 700。(冷卻時間 60秒)	icon_skills.guildskills_str_tex	icon_skills.guildskills_str_tex	True
 30000016	1002	Buff	True	abs	5000	0	700	魔法增幅增加			5秒間魔法增幅增加 700。(冷卻時間 60秒)	icon_skills.guildskills_str_tex	icon_skills.guildskills_str_tex	True
+30000017	Crit	Buff	True	abs	10000	0	12	爆擊觸發增加			10秒內爆擊觸發增加12。 (冷卻時間60秒)	icon_skills.guildskills_str_tex	icon_skills.guildskills_str_tex	True
 30010000	0	Buff	True	swch	600000	0	0	阿勒卡夫的力量	206062	阿勒卡夫靈藥	用阿勒卡夫的力量即可飛行及使用阿勒卡夫跳躍台。	icon_items.orb_of_dragonpower_tex	icon_items.orb_of_dragonpower_tex	True
+30010001	0	Buff	True	swch	90000	0	0	阿勒卡夫的力量	88875	猛烈亞黔班特的胸針	因為阿勒卡夫的力量可使用飛行及阿勒卡夫跳躍台。	icon_items.orb_of_dragonpower_tex	icon_items.orb_of_dragonpower_tex	True
 30160000	OutOfCombatMovSpd	Buff	True	abs	0	1	80	試驗的祝福			給參加試煉之人賦予的祝福。<BR>$H_W_GOOD平穩狀態移動速度$COLOR_END和 $H_W_GOOD坐騎移動速度變快。<BR>每秒HP和MP各恢復2%。	icon_status.holybless_tex	icon_status.holybless_tex	True
 30160000	RidingSpeed	Buff	True	seta	0	0	400	試驗的祝福			給參加試煉之人賦予的祝福。<BR>$H_W_GOOD平穩狀態移動速度$COLOR_END和 $H_W_GOOD坐騎移動速度變快。<BR>每秒HP和MP各恢復2%。	icon_status.holybless_tex	icon_status.holybless_tex	True
 30160000	HPChange	Buff	True	perc	0	1	0.02	試驗的祝福			給參加試煉之人賦予的祝福。<BR>$H_W_GOOD平穩狀態移動速度$COLOR_END和 $H_W_GOOD坐騎移動速度變快。<BR>每秒HP和MP各恢復2%。	icon_status.holybless_tex	icon_status.holybless_tex	True
@@ -6080,6 +6108,42 @@
 30190396	Drunk1	Debuff	True	seta	0	0	0	蓄電			震怒的卡伊戮斯每次使用特定技能時，會聚集閃電之氣。聚集到一定程度以上會使用強力的咆哮攻擊。	icon_status.godspell_tex	icon_status.godspell_tex	True
 30190397	Drunk1	Debuff	True	seta	0	0	0	蓄電			震怒的卡伊戮斯每次使用特定技能時，會聚集閃電之氣。聚集到一定程度以上會使用強力的咆哮攻擊。	icon_status.godspell_tex	icon_status.godspell_tex	True
 30190398	Drunk1	Debuff	True	seta	0	0	0	蓄電			震怒的卡伊戮斯每次使用特定技能時，會聚集閃電之氣。聚集到一定程度以上會使用強力的咆哮攻擊。	icon_status.godspell_tex	icon_status.godspell_tex	True
+30200010	Stun	Debuff	False	swch	5000	0	5	捕獲			被網子困住，無法行動。	icon_skills.hookthrow_tex	icon_skills.hookthrow_tex	True
+30200011	StackCounter	Debuff	False	seta	120000	0	30200012	魔力填充中			魔力正在填充，3疊加時可使用恐怖的技術。	icon_status.electriccharge1_tex	icon_status.electriccharge1_tex	True
+30200012	Endurance	Debuff	False	perc	0	0	1	魔力填充完成			魔力填充完成，現在應該也可以使用恐怖的技術。	icon_status.electriccharge3_tex	icon_status.electriccharge3_tex	True
+30200013	Power	Debuff	False	perc	10000	0	1.1	海洋的詛咒			受到海洋的詛咒，攻擊力雖增加，但減少防禦力。最多可堆疊5個，疊加5個時將陷入恐懼。	icon_status.darkriftdestroy_tex	icon_status.darkriftdestroy_tex	True
+30200013	Endurance	Debuff	False	perc	10000	0	0.8	海洋的詛咒			受到海洋的詛咒，攻擊力雖增加，但減少防禦力。最多可堆疊5個，疊加5個時將陷入恐懼。	icon_status.darkriftdestroy_tex	icon_status.darkriftdestroy_tex	True
+30200013	StackCounter	Debuff	False	seta	10000	0	622002	海洋的詛咒			受到海洋的詛咒，攻擊力雖增加，但減少防禦力。最多可堆疊5個，疊加5個時將陷入恐懼。	icon_status.darkriftdestroy_tex	icon_status.darkriftdestroy_tex	True
+30202202	Endurance	Debuff	True	perc	700	0	1	可跳躍迴避			可利用跳躍躲避特定攻擊。	icon_skills.jump_tex	icon_skills.jump_tex	True
+30202203	Endurance	Debuff	True	perc	700	0	1	可跳躍迴避			可利用跳躍躲避特定攻擊。	icon_skills.jump_tex	icon_skills.jump_tex	False
+30208001	MaxHP	Buff	False	perc	0	0	0.35	難易度1階段			受到海洋的力量而變強。怪物的最大HP提升$H_W_GOOD65%$COLOR_END，增加攻擊力$H_W_GOOD10%$COLOR_END、攻擊速度$H_W_GOOD0%$COLOR_END。	icon_skills.guildskills_str_tex	icon_skills.guildskills_str_tex	True
+30208001	ASpd	Buff	False	perc	0	0	0.9	難易度1階段			受到海洋的力量而變強。怪物的最大HP提升$H_W_GOOD65%$COLOR_END，增加攻擊力$H_W_GOOD10%$COLOR_END、攻擊速度$H_W_GOOD0%$COLOR_END。	icon_skills.guildskills_str_tex	icon_skills.guildskills_str_tex	True
+30208001	HPChange2	Buff	False	perc	0	0	1	難易度1階段			受到海洋的力量而變強。怪物的最大HP提升$H_W_GOOD65%$COLOR_END，增加攻擊力$H_W_GOOD10%$COLOR_END、攻擊速度$H_W_GOOD0%$COLOR_END。	icon_skills.guildskills_str_tex	icon_skills.guildskills_str_tex	True
+30208002	MaxHP	Buff	False	perc	0	0	0.52	難易度2階段			受到海洋的力量而變強。怪物的最大HP提升$H_W_GOOD48%$COLOR_END，增加攻擊力$H_W_GOOD32%$COLOR_END、攻擊速度$H_W_GOOD0%$COLOR_END。	icon_skills.guildskills_str_tex	icon_skills.guildskills_str_tex	True
+30208002	Power	Buff	False	perc	0	0	1.32	難易度2階段			受到海洋的力量而變強。怪物的最大HP提升$H_W_GOOD48%$COLOR_END，增加攻擊力$H_W_GOOD32%$COLOR_END、攻擊速度$H_W_GOOD0%$COLOR_END。	icon_skills.guildskills_str_tex	icon_skills.guildskills_str_tex	True
+30208002	HPChange2	Buff	False	perc	0	0	1	難易度2階段			受到海洋的力量而變強。怪物的最大HP提升$H_W_GOOD48%$COLOR_END，增加攻擊力$H_W_GOOD32%$COLOR_END、攻擊速度$H_W_GOOD0%$COLOR_END。	icon_skills.guildskills_str_tex	icon_skills.guildskills_str_tex	True
+30208003	MaxHP	Buff	False	perc	0	0	0.63	難易度3階段			受到海洋的力量而變強。怪物的最大HP提升$H_W_GOOD37%$COLOR_END，增加攻擊力$H_W_GOOD56%$COLOR_END、攻擊速度$H_W_GOOD0%$COLOR_END。	icon_skills.guildskills_str_tex	icon_skills.guildskills_str_tex	True
+30208003	Power	Buff	False	perc	0	0	1.56	難易度3階段			受到海洋的力量而變強。怪物的最大HP提升$H_W_GOOD37%$COLOR_END，增加攻擊力$H_W_GOOD56%$COLOR_END、攻擊速度$H_W_GOOD0%$COLOR_END。	icon_skills.guildskills_str_tex	icon_skills.guildskills_str_tex	True
+30208003	HPChange2	Buff	False	perc	0	0	1	難易度3階段			受到海洋的力量而變強。怪物的最大HP提升$H_W_GOOD37%$COLOR_END，增加攻擊力$H_W_GOOD56%$COLOR_END、攻擊速度$H_W_GOOD0%$COLOR_END。	icon_skills.guildskills_str_tex	icon_skills.guildskills_str_tex	True
+30208004	MaxHP	Buff	False	perc	0	0	0.81	難易度4階段			受到海洋的力量而變強。怪物的最大HP提升$H_W_GOOD19%$COLOR_END，增加攻擊力$H_W_GOOD100%$COLOR_END、攻擊速度$H_W_GOOD10%$COLOR_END。	icon_skills.guildskills_str_tex	icon_skills.guildskills_str_tex	True
+30208004	Power	Buff	False	perc	0	0	2	難易度4階段			受到海洋的力量而變強。怪物的最大HP提升$H_W_GOOD19%$COLOR_END，增加攻擊力$H_W_GOOD100%$COLOR_END、攻擊速度$H_W_GOOD10%$COLOR_END。	icon_skills.guildskills_str_tex	icon_skills.guildskills_str_tex	True
+30208004	ASpd	Buff	False	perc	0	0	1.1	難易度4階段			受到海洋的力量而變強。怪物的最大HP提升$H_W_GOOD19%$COLOR_END，增加攻擊力$H_W_GOOD100%$COLOR_END、攻擊速度$H_W_GOOD10%$COLOR_END。	icon_skills.guildskills_str_tex	icon_skills.guildskills_str_tex	True
+30208004	HPChange2	Buff	False	perc	0	0	1	難易度4階段			受到海洋的力量而變強。怪物的最大HP提升$H_W_GOOD19%$COLOR_END，增加攻擊力$H_W_GOOD100%$COLOR_END、攻擊速度$H_W_GOOD10%$COLOR_END。	icon_skills.guildskills_str_tex	icon_skills.guildskills_str_tex	True
+30208005	Power	Buff	False	perc	0	0	2.4	難易度5階段			受到海洋的力量而變強。怪物的最大HP提升$H_W_GOOD140%$COLOR_END，增加攻擊力$H_W_GOOD15%$COLOR_END、攻擊速度$H_W_GOOD0%$COLOR_END。	icon_skills.guildskills_str_tex	icon_skills.guildskills_str_tex	True
+30208005	ASpd	Buff	False	perc	0	0	1.15	難易度5階段			受到海洋的力量而變強。怪物的最大HP提升$H_W_GOOD140%$COLOR_END，增加攻擊力$H_W_GOOD15%$COLOR_END、攻擊速度$H_W_GOOD0%$COLOR_END。	icon_skills.guildskills_str_tex	icon_skills.guildskills_str_tex	True
+30208005	HPChange2	Buff	False	perc	0	0	1	難易度5階段			受到海洋的力量而變強。怪物的最大HP提升$H_W_GOOD140%$COLOR_END，增加攻擊力$H_W_GOOD15%$COLOR_END、攻擊速度$H_W_GOOD0%$COLOR_END。	icon_skills.guildskills_str_tex	icon_skills.guildskills_str_tex	True
+30209001	Endurance	Debuff	True	perc	0	0	1.1	巨大化			受到海洋的力量而變強。怪物的體型變大，防禦力增加$H_W_GOOD10%$COLOR_END，但移動速度減少$H_W_BAD20%$COLOR_END。	icon_skills.deadlywill_tex	icon_skills.deadlywill_tex	True
+30209001	MovSpd	Debuff	True	perc	0	0	0.8	巨大化			受到海洋的力量而變強。怪物的體型變大，防禦力增加$H_W_GOOD10%$COLOR_END，但移動速度減少$H_W_BAD20%$COLOR_END。	icon_skills.deadlywill_tex	icon_skills.deadlywill_tex	True
+30209001	313	Debuff	True	swch	0	0	0.2	巨大化			受到海洋的力量而變強。怪物的體型變大，防禦力增加$H_W_GOOD10%$COLOR_END，但移動速度減少$H_W_BAD20%$COLOR_END。	icon_skills.deadlywill_tex	icon_skills.deadlywill_tex	True
+30209002	IncreasedHeal	Debuff	True	perc	10000	0	0.9	爆擊			受到海洋的力量而變強。被此怪物攻擊後，將受到恢復性能減少的詛咒。	icon_status.damageup_tex	icon_status.damageup_tex	True
+30209003	IncreasedHeal	Debuff	True	perc	10000	0	0.9	致命傷			最多可疊加10次，受到的恢復性能減少10%。	icon_status.blooduanty_tex	icon_status.blooduanty_tex	True
+30209004	MPChange	Stun	True	perc	3000	3	-0.4	魔力掠奪者			受到海洋的力量而變強。被此怪物攻擊後，將是到魔力減少的詛咒。	icon_status.damageup_tex	icon_status.damageup_tex	True
+30209005	MPChange	Stun	True	perc	3000	3	-0.4	乾掉的傷口			最多可疊加10次，每秒減少20%的魔力。	icon_status.blooduanty_tex	icon_status.blooduanty_tex	True
+30209101	271	Buff	True	swch	3000	0	30209101	亡靈閃電			3秒後，你將被亡靈閃電襲擊。	icon_skills.electricshock_tex	icon_skills.electricshock_tex	True
+30209102	271	Buff	True	swch	3000	0	30209102	魔女的氣息			3秒後，魔女的氣息將朝你襲來。	icon_status.diseasedown_tex	icon_status.diseasedown_tex	True
+30209201	MovSpdInCombat	Buff	True	perc	0	1	1.1	天氣效果 - 濕滑的甲板			因天氣效果，戰鬥時的移動速度增加10%。	icon_status.aura_of_wind_tex	icon_status.aura_of_wind_tex	True
+30209202	Power	Buff	True	perc	0	1	1.05	天氣效果 - 晴朗的正午			因天氣效果，攻擊力增加5%。	icon_status.plusattack_tex	icon_status.plusattack_tex	True
+30209203	Endurance	Buff	True	perc	0	1	1.05	天氣效果 - 藍色的星群			因天氣效果，防禦力增加5%。	icon_status.plusedefence_tex	icon_status.plusedefence_tex	True
 30231000	DelayedEffect	Debuff	True	seta	70000	0	30231002	紅色詛咒氣息			感覺到紅色詛咒氣息。2重疊或是持續時間過後就會死亡。	icon_status.delayheal_tex	icon_status.delayheal_tex	True
 30231000	StackCounter	Debuff	True	seta	70000	0	30231002	紅色詛咒氣息			感覺到紅色詛咒氣息。2重疊或是持續時間過後就會死亡。	icon_status.delayheal_tex	icon_status.delayheal_tex	True
 30231001	DelayedEffect	Debuff	True	seta	70000	0	30231002	藍色詛咒氣息			感覺到藍色詛咒氣息。2重疊或是持續時間過後就會死亡。	icon_status.delaympgain_tex	icon_status.delaympgain_tex	True
@@ -6111,6 +6175,82 @@
 30250003	MovSpdInCombat	Buff	True	perc	30000	0	1.3	幼蟲磁石			加快速度回歸戰鬥空間。	icon_status.aura_of_wind_tex	icon_status.aura_of_wind_tex	True
 30250003	OutOfCombatMovSpd	Buff	True	perc	30000	0	1.3	幼蟲磁石			加快速度回歸戰鬥空間。	icon_status.aura_of_wind_tex	icon_status.aura_of_wind_tex	True
 30250004	Plague	Debuff	True	setp	30000	1	30240005	除蟲劑			為了驅嚇幼蟲的裝置。30秒內給予接近的幼蟲傷害。	icon_status.damagedown_tex	icon_status.damagedown_tex	True
+30260001	Endurance	DOT	True	perc	70000	0	1	破滅業火			每$H_W_BAD0s$COLOR_END整體 HP 會持續減少 $H_W_BAD5%$COLOR_END，持續時間結束時目標立即死亡。$BR破滅業火唯有使用破滅寒氣才可解除。提升戰鬥地區的溫度。	icon_status.firedamage_tex	icon_status.firedamage_tex	True
+30260001	HPChange	DOT	True	perc	70000	2	-0.05	破滅業火			每$H_W_BAD0s$COLOR_END整體 HP 會持續減少 $H_W_BAD5%$COLOR_END，持續時間結束時目標立即死亡。$BR破滅業火唯有使用破滅寒氣才可解除。提升戰鬥地區的溫度。	icon_status.firedamage_tex	icon_status.firedamage_tex	True
+30260001	AtkPotion	Debuff	False	seta	0	0	0.75	破滅業火			每$H_W_BAD0s$COLOR_END整體 HP 會持續減少 $H_W_BAD5%$COLOR_END，持續時間結束時目標立即死亡。$BR破滅業火唯有使用破滅寒氣才可解除。提升戰鬥地區的溫度。	icon_status.firedamage_tex	icon_status.firedamage_tex	True
+30260001	HPLoss	DOT	True	abs	70000	0	-10000000	破滅業火			每$H_W_BAD0s$COLOR_END整體 HP 會持續減少 $H_W_BAD5%$COLOR_END，持續時間結束時目標立即死亡。$BR破滅業火唯有使用破滅寒氣才可解除。提升戰鬥地區的溫度。	icon_status.firedamage_tex	icon_status.firedamage_tex	True
+30260001	HPChange2	Debuff	True	perc	1000	0	-2	破滅業火			每$H_W_BAD0s$COLOR_END整體 HP 會持續減少 $H_W_BAD5%$COLOR_END，持續時間結束時目標立即死亡。$BR破滅業火唯有使用破滅寒氣才可解除。提升戰鬥地區的溫度。	icon_status.firedamage_tex	icon_status.firedamage_tex	True
+30260002	Endurance	DOT	True	perc	70000	0	1	破滅寒氣			每$H_W_BAD0s$COLOR_END整體 HP 會持續減少 $H_W_BAD5%$COLOR_END，持續時間結束時目標立即死亡。$BR破滅寒氣唯有使用破滅業火才可解除。降低戰鬥地區的溫度。	icon_status.icedamage_tex	icon_status.icedamage_tex	True
+30260002	HPChange	DOT	True	perc	70000	2	-0.05	破滅寒氣			每$H_W_BAD0s$COLOR_END整體 HP 會持續減少 $H_W_BAD5%$COLOR_END，持續時間結束時目標立即死亡。$BR破滅寒氣唯有使用破滅業火才可解除。降低戰鬥地區的溫度。	icon_status.icedamage_tex	icon_status.icedamage_tex	True
+30260002	AtkPotion	Debuff	False	seta	0	0	0.75	破滅寒氣			每$H_W_BAD0s$COLOR_END整體 HP 會持續減少 $H_W_BAD5%$COLOR_END，持續時間結束時目標立即死亡。$BR破滅寒氣唯有使用破滅業火才可解除。降低戰鬥地區的溫度。	icon_status.icedamage_tex	icon_status.icedamage_tex	True
+30260002	HPLoss	DOT	True	abs	70000	0	-10000000	破滅寒氣			每$H_W_BAD0s$COLOR_END整體 HP 會持續減少 $H_W_BAD5%$COLOR_END，持續時間結束時目標立即死亡。$BR破滅寒氣唯有使用破滅業火才可解除。降低戰鬥地區的溫度。	icon_status.icedamage_tex	icon_status.icedamage_tex	True
+30260002	HPChange2	Debuff	True	perc	1000	0	-2	破滅寒氣			每$H_W_BAD0s$COLOR_END整體 HP 會持續減少 $H_W_BAD5%$COLOR_END，持續時間結束時目標立即死亡。$BR破滅寒氣唯有使用破滅業火才可解除。降低戰鬥地區的溫度。	icon_status.icedamage_tex	icon_status.icedamage_tex	True
+30260003	Endurance	DOT	True	perc	60000	0	1	地獄業火			每$H_W_BAD0s$COLOR_END整體 HP 會持續減少 $H_W_BAD5%$COLOR_END，持續時間結束時目標立即死亡。$BR地獄業火唯有使用破滅業火及破滅寒氣才可解除。自身攻擊力減少 50%。	icon_status.poisonstatus_tex	icon_status.poisonstatus_tex	True
+30260003	HPChange	DOT	True	perc	60000	2	-0.05	地獄業火			每$H_W_BAD0s$COLOR_END整體 HP 會持續減少 $H_W_BAD5%$COLOR_END，持續時間結束時目標立即死亡。$BR地獄業火唯有使用破滅業火及破滅寒氣才可解除。自身攻擊力減少 50%。	icon_status.poisonstatus_tex	icon_status.poisonstatus_tex	True
+30260003	AtkPotion	DOT	True	perc	60000	2	0.5	地獄業火			每$H_W_BAD0s$COLOR_END整體 HP 會持續減少 $H_W_BAD5%$COLOR_END，持續時間結束時目標立即死亡。$BR地獄業火唯有使用破滅業火及破滅寒氣才可解除。自身攻擊力減少 50%。	icon_status.poisonstatus_tex	icon_status.poisonstatus_tex	True
+30260003	HPLoss	DOT	True	abs	60000	0	-10000000	地獄業火			每$H_W_BAD0s$COLOR_END整體 HP 會持續減少 $H_W_BAD5%$COLOR_END，持續時間結束時目標立即死亡。$BR地獄業火唯有使用破滅業火及破滅寒氣才可解除。自身攻擊力減少 50%。	icon_status.poisonstatus_tex	icon_status.poisonstatus_tex	True
+30260004	Endurance	Debuff	True	perc	90000	0	1	確認火的條件			火	icon_status.firedamage_tex	icon_status.firedamage_tex	False
+30260005	Endurance	Debuff	True	perc	2147483647	0	1	確認寒氣的條件			寒氣	icon_status.icedamage_tex	icon_status.icedamage_tex	False
+30260006	Endurance	Debuff	True	perc	100	0	1	火覆蓋			刪除確認火的條件	icon_status.icedamage_tex	icon_status.icedamage_tex	False
+30260007	Endurance	Debuff	True	perc	100	0	1	寒氣覆蓋			刪除確認寒氣的條件	icon_status.firedamage_tex	icon_status.firedamage_tex	False
+30260008	Endurance	Debuff	True	perc	500	0	1	暫停條件檢查			暫停條件檢查	icon_status.firedamage_tex	icon_status.firedamage_tex	False
+30260009	BuffNearbyParty	Debuff	False	seta	180000	5	30260010	無能結界 - 釋放			包含自身在內的周圍所有隊員們技能威力減少  $H_W_BAD50%$COLOR_END 。此效果即使死亡也不會消失。	icon_status.minuswill_tex	icon_status.minuswill_tex	True
+30260010	AtkPotion	Debuff	False	perc	0	0	0.5	無能結界			技能威力減少 $H_W_BAD50%$COLOR_END 。包含自身在內的周圍所有隊員，直到解除無能結界 - 釋放效果為止，此效果將持續不會結束。	icon_status.minusattack_tex	icon_status.minusattack_tex	True
+30260011	319	Debuff	False	swch	0	0	30260002	火焰抵抗狀態			只有寒冷的氣息才可解除。	icon_status.firedamage_tex	icon_status.firedamage_tex	True
+30260012	319	Debuff	False	swch	0	0	30260001	寒氣抵抗狀態			只有火焰的氣息才可解除。	icon_status.icedamage_tex	icon_status.icedamage_tex	True
+30260014	Stun	Stun	False	swch	2000	0	5	凱爾賽克的咆哮			受到強大的攻擊無法移動。	icon_status.confuseup_tex	icon_status.confuseup_tex	True
+30260015	HPChange	DOT	False	perc	15000	3	-0.06	過度出血			因過度出血引起 $H_W_BAD3s$COLOR_END 整體HP會持續減少 $H_W_BAD6%$COLOR_END。	icon_status.damagedown_tex	icon_status.damagedown_tex	True
+30260016	MovSpd	Stun	False	setp	3000	0	0.1	寒冰暴風			因寒冰暴風而變得緩慢，10疊加時身體將完全凝固。	icon_skills.icestorm_tex	icon_skills.icestorm_tex	True
+30260016	StackCounter	Stun	False	seta	3000	0	30260017	寒冰暴風			因寒冰暴風而變得緩慢，10疊加時身體將完全凝固。	icon_skills.icestorm_tex	icon_skills.icestorm_tex	True
+30260017	MovSpd	Stun	True	setp	2500	0	0	結冰			被極度寒氣凍住了全身。	icon_skills.icestorm_tex	icon_skills.icestorm_tex	True
+30260017	Block	Stun	True	swch	2500	0	0	結冰			被極度寒氣凍住了全身。	icon_skills.icestorm_tex	icon_skills.icestorm_tex	True
+30260017	340	Stun	True	swch	2500	0	0	結冰			被極度寒氣凍住了全身。	icon_skills.icestorm_tex	icon_skills.icestorm_tex	True
+30260018	311	Debuff	False	3026	0	0	5	凱爾賽克的詛咒			死亡後復活時，阿勒坤士兵將甦醒。阿勒坤士兵有很高機率與補師為敵。	icon_status.diseasedown_tex	icon_status.diseasedown_tex	True
+30260023	StackCounter	Debuff	True	seta	90000	0	30260025	火屬性			身體太熱了，戰鬥區域的溫度各上升１。	icon_status.delaydamage_tex	icon_status.delaydamage_tex	False
+30260024	StackCounter	Debuff	True	seta	90000	0	30260025	水屬性			身體太冷了，戰鬥區域的溫度各下降１。	icon_status.delaymploss_tex	icon_status.delaymploss_tex	False
+30260025	HPChange2	Debuff	True	perc	1000	0	-2	破滅業火			每$H_W_BAD0s$COLOR_END整體 HP 會持續減少 $H_W_BAD5%$COLOR_END，持續時間結束時目標立即死亡。$BR破滅業火唯有使用破滅寒氣才可解除。提升戰鬥地區的溫度。	icon_status.firedamage_tex	icon_status.firedamage_tex	False
+30260026	IncreasedHeal	Buff	False	swch	0	0	0.5	魔力混亂			因為亞剋卡拉索凱爾賽克的魔力，所有恢復手段的恢復力減少 50%。	icon_skills.feigndeath_tex	icon_skills.feigndeath_tex	True
+30260026	CDR	Buff	False	swch	0	0	0.7	魔力混亂			因為亞剋卡拉索凱爾賽克的魔力，所有恢復手段的恢復力減少 50%。	icon_skills.feigndeath_tex	icon_skills.feigndeath_tex	True
+30260027	HPChange	DOT	True	perc	0	1	-0.001	身體瓦解			支撐亞剋卡拉索凱爾賽克的魔力開始瓦解，持續減少 HP。	icon_status.diseaseup_tex	icon_status.diseaseup_tex	True
+30260028	Attack	DOT	True	perc	70000	0	1.5	凱爾賽克的精髓	602173	分身凱爾賽克的精髓	擁有希砍特力量的強大精髓， 技能威力增加 50%。另外對業火和寒氣擁有抗力。	icon_status.passive_dragonblood	icon_status.passive_dragonblood	True
+30260028	HPChange2	Debuff	True	perc	1000	0	-2	凱爾賽克的精髓	602173	分身凱爾賽克的精髓	擁有希砍特力量的強大精髓， 技能威力增加 50%。另外對業火和寒氣擁有抗力。	icon_status.passive_dragonblood	icon_status.passive_dragonblood	True
+30260054	Drunk1	Debuff	True	seta	20000	0	0	暴走模式確認用			跳躍時除擴散外須被擊中			False
+30260055	Drunk1	Debuff	True	seta	30000	0	0	擴散無敵			不能被擴散擊中。			False
+30260251	MovSpd	Buff	True	perc	10000	0	1.1	阿勒坤寄生蟲			每$H_W_BAD1s$COLOR_END整體 HP 會持續減少$H_W_BAD2%$COLOR_END 。此效果最多重疊5次，5重疊時整體HP會減少 $H_W_BAD50%$COLOR_END。$BR跳躍時，寄生蟲將掉落。$BR阿勒坤寄生蟲無法解除。	icon_status.cruel_slayer_3_tex	icon_status.cruel_slayer_3_tex	True
+30260251	HPChange	DOT	False	perc	30000	1	-0.02	阿勒坤寄生蟲			每$H_W_BAD1s$COLOR_END整體 HP 會持續減少$H_W_BAD2%$COLOR_END 。此效果最多重疊5次，5重疊時整體HP會減少 $H_W_BAD50%$COLOR_END。$BR跳躍時，寄生蟲將掉落。$BR阿勒坤寄生蟲無法解除。	icon_status.cruel_slayer_3_tex	icon_status.cruel_slayer_3_tex	True
+30260251	Drunk	DOT	False	426717	30000	0	0	阿勒坤寄生蟲			每$H_W_BAD1s$COLOR_END整體 HP 會持續減少$H_W_BAD2%$COLOR_END 。此效果最多重疊5次，5重疊時整體HP會減少 $H_W_BAD50%$COLOR_END。$BR跳躍時，寄生蟲將掉落。$BR阿勒坤寄生蟲無法解除。	icon_status.cruel_slayer_3_tex	icon_status.cruel_slayer_3_tex	True
+30260251	StackCounter	DOT	False	swch	30000	0	30260253	阿勒坤寄生蟲			每$H_W_BAD1s$COLOR_END整體 HP 會持續減少$H_W_BAD2%$COLOR_END 。此效果最多重疊5次，5重疊時整體HP會減少 $H_W_BAD50%$COLOR_END。$BR跳躍時，寄生蟲將掉落。$BR阿勒坤寄生蟲無法解除。	icon_status.cruel_slayer_3_tex	icon_status.cruel_slayer_3_tex	True
+30260252	MovSpd	Buff	True	perc	10000	0	1.1	甩開寄生蟲			跳躍後能甩開寄生蟲，但還不能鬆懈。	icon_status.cruel_slayer_3_tex	icon_status.cruel_slayer_3_tex	False
+30260252	Drunk	Buff	True	426719	10000	0	0	甩開寄生蟲			跳躍後能甩開寄生蟲，但還不能鬆懈。	icon_status.cruel_slayer_3_tex	icon_status.cruel_slayer_3_tex	False
+30260253	HPChange	DOT	False	perc	2000	2	-0.3	甩開寄生蟲			跳躍後能甩開寄生蟲，但還不能鬆懈。	icon_status.cruel_slayer_3_tex	icon_status.cruel_slayer_3_tex	False
+30260253	Drunk	DOT	False	426718	2000	0	0	甩開寄生蟲			跳躍後能甩開寄生蟲，但還不能鬆懈。	icon_status.cruel_slayer_3_tex	icon_status.cruel_slayer_3_tex	False
+30261200	Stun	Stun	False	swch	3000	0	5	腦震盪			暈厥狀態下無法動彈，無法解除。	icon_status.confuseup_tex	icon_status.confuseup_tex	True
+30261300	Stun	Stun	False	swch	5000	0	5	腦震盪			暈厥狀態下無法動彈，無法解除。	icon_status.confuseup_tex	icon_status.confuseup_tex	True
+30261500	DelayedEffect	Buff	True	abs	35000	0	975150	毀滅盔甲			毀滅盔甲最多可吸收 $H_W_GOOD3000000$COLOR_END 的傷害。 持續時間內給予超出最多吸收量的傷害後，仍無法破壞毀滅盔甲時，玩家角色將因結界效果而死，且凱爾賽克將陷入毀滅憤怒!	icon_skills.manashield_tex	icon_skills.manashield_tex	True
+30261500	Absorb	Buff	True	abs	35000	0	3000000	毀滅盔甲			毀滅盔甲最多可吸收 $H_W_GOOD3000000$COLOR_END 的傷害。 持續時間內給予超出最多吸收量的傷害後，仍無法破壞毀滅盔甲時，玩家角色將因結界效果而死，且凱爾賽克將陷入毀滅憤怒!	icon_skills.manashield_tex	icon_skills.manashield_tex	True
+30261501	Power	Buff	True	perc	0	0	1.05	希砍特的力量			受到神的力量，攻擊力與攻擊速度增加5%。	icon_status.plusattack_tex	icon_status.plusattack_tex	True
+30261501	ASpd	Buff	True	perc	0	0	1.05	希砍特的力量			受到神的力量，攻擊力與攻擊速度增加5%。	icon_status.plusattack_tex	icon_status.plusattack_tex	True
+30261502	Power	Buff	True	perc	0	0	1.1	希砍特的覺醒			受到神的力量，攻擊力與攻擊速度增加10%。	icon_status.plusattack_tex	icon_status.plusattack_tex	True
+30261502	ASpd	Buff	True	perc	0	0	1.1	希砍特的覺醒			受到神的力量，攻擊力與攻擊速度增加10%。	icon_status.plusattack_tex	icon_status.plusattack_tex	True
+30261503	HPChange	DOT	True	perc	3000	1	-0.15	凱爾賽克的恐怖			因為令人窒息的凱爾賽克恐怖而無法振作精神。 持續扣除 HP，無法使用技能。	icon_skills.electricshock2_tex	icon_skills.electricshock2_tex	True
+30261503	Block	DOT	True	swch	3000	0	0	凱爾賽克的恐怖			因為令人窒息的凱爾賽克恐怖而無法振作精神。 持續扣除 HP，無法使用技能。	icon_skills.electricshock2_tex	icon_skills.electricshock2_tex	True
+30261601	AtkPotion	Debuff	False	seta	0	0	0.75	破滅業火			每$H_W_BAD0s$COLOR_END整體 HP 會持續減少 $H_W_BAD5%$COLOR_END，持續時間結束時目標立即死亡。$BR破滅業火唯有使用破滅寒氣才可解除。提升戰鬥地區的溫度。	icon_status.firedamage_tex	icon_status.firedamage_tex	False
+30261602	AtkPotion	Debuff	False	seta	0	0	0.75	破滅寒氣			每$H_W_BAD0s$COLOR_END整體 HP 會持續減少 $H_W_BAD5%$COLOR_END，持續時間結束時目標立即死亡。$BR破滅寒氣唯有使用破滅業火才可解除。降低戰鬥地區的溫度。	icon_status.icedamage_tex	icon_status.icedamage_tex	False
+30261603	Drunk1	Debuff	True	seta	0	0	0	業火盔甲			亞剋卡拉索凱爾賽克正受到業火盔甲的保護。擁有破滅業火的對象傷害減少25%。	icon_status.battlefieldbuff02_tex	icon_status.battlefieldbuff02_tex	True
+30261604	Drunk1	Debuff	True	seta	0	0	0	寒氣盔甲			亞剋卡拉索凱爾賽克正受到寒氣盔甲的保護。擁有破滅寒氣的對象傷害減少25%。	icon_status.battlefieldbuff01_tex	icon_status.battlefieldbuff01_tex	True
+30261607	Endurance	Buff	True	perc	0	0	10	凱爾賽克的結界			凱爾賽克所受到的傷害減少 95%。	icon_status.dragonberserk_tex	icon_status.dragonberserk_tex	True
+30261609	Drunk1	Debuff	True	seta	90000	0	0	業火魔力			阿勒坤祭司的魔力被亞剋卡拉索凱爾賽克所吸收。擁有破滅業火者的技能攻擊力減少50%。	icon_status.passive_dragonblood2	icon_status.passive_dragonblood2	True
+30261610	Drunk1	Debuff	True	seta	90000	0	0	寒氣魔力			阿勒坤祭司的魔力被亞剋卡拉索凱爾賽克所吸收。擁有破滅寒氣者的技能攻擊力減少50%。	icon_status.passive_dragonblood	icon_status.passive_dragonblood	True
+30261701	HPChange	Buff	True	perc	90000	1	0.07	阿勒坤祭司的精髓	602172	阿勒坤祭司的精髓	HP持續恢復。	icon_status.aura_of_regeneration_hp_tex	icon_status.aura_of_regeneration_hp_tex	True
+30261702	DelayedEffect	Debuff	True	seta	60000	0	30261703	凱爾賽克的狂氣			因阿勒坤祭司使得凱爾賽克的狂氣正在甦醒。	icon_status.earthpower_tex	icon_status.earthpower_tex	True
+30261702	Drunk1	Debuff	True	seta	60000	0	0	凱爾賽克的狂氣			因阿勒坤祭司使得凱爾賽克的狂氣正在甦醒。	icon_status.earthpower_tex	icon_status.earthpower_tex	True
+30261703	Power	Buff	True	perc	0	0	5	狂暴化			凱爾賽克變得狂暴，任何人都無法阻擋。	icon_status.earthblessing_tex	icon_status.earthblessing_tex	True
+30261703	ASpd	Buff	True	perc	0	0	1.5	狂暴化			凱爾賽克變得狂暴，任何人都無法阻擋。	icon_status.earthblessing_tex	icon_status.earthblessing_tex	True
+30264200	Power	Debuff	True	perc	600000	0	1.5	凱爾賽克的憤怒			攻擊力增加 $H_W_GOOD50%$COLOR_END ，攻擊速度增加 $H_W_GOOD30%$COLOR_END 。無法解除。	icon_status.plusattack_tex	icon_status.plusattack_tex	True
+30264200	ASpd	Debuff	True	perc	600000	0	1.3	凱爾賽克的憤怒			攻擊力增加 $H_W_GOOD50%$COLOR_END ，攻擊速度增加 $H_W_GOOD30%$COLOR_END 。無法解除。	icon_status.plusattack_tex	icon_status.plusattack_tex	True
+30264300	Power	Debuff	False	perc	60000	0	1.5	凱爾賽克的挑撥			力量與攻擊速度增加 $H_W_GOOD50%$COLOR_END 。但, 異常狀態結束時瀕臨死亡。	icon_status.poisonstatus_tex	icon_status.poisonstatus_tex	True
+30264300	ASpd	Debuff	False	perc	60000	0	1.5	凱爾賽克的挑撥			力量與攻擊速度增加 $H_W_GOOD50%$COLOR_END 。但, 異常狀態結束時瀕臨死亡。	icon_status.poisonstatus_tex	icon_status.poisonstatus_tex	True
+30264300	HPLoss	Debuff	False	abs	60000	0	-10000000	凱爾賽克的挑撥			力量與攻擊速度增加 $H_W_GOOD50%$COLOR_END 。但, 異常狀態結束時瀕臨死亡。	icon_status.poisonstatus_tex	icon_status.poisonstatus_tex	True
 31010202	HPChange	DOT	True	perc	10000	2	-0.1	紛飛的寶石			尖銳的寶石粉末在風中紛飛。被寶石粉末劃傷，每2秒減少$H_W_BAD10%$COLOR_END的HP。	icon_status.injuredbtdarkness_tex	icon_status.injuredbtdarkness_tex	True
 31010205	Block	Buff	True	swch	2000	0	0	沉默			全身被寶石黏住，無法任意行動。	icon_status.confuseup_tex	icon_status.confuseup_tex	True
 31010220	Aggro	Debuff	True	perc	80000	0	0.3	女王寵愛			全身受到費爾奎娜的視線，2疊加時將全身僵硬而死。	icon_status.yellowaura_tex	icon_status.yellowaura_tex	True
@@ -9423,6 +9563,9 @@
 999001049	XPBoost	Buff	True	setp	7200000	0	2.142857	和諧的樂趣			不論隊員數量，不會變更個人獲得的經驗值。	icon_skills.guildskill1_level1_tex	icon_skills.guildskill1_level1_tex	True
 999001050	XPBoost	Buff	True	setp	7200000	0	2.5	和諧的樂趣			不論隊員數量，不會變更個人獲得的經驗值。	icon_skills.guildskill1_level1_tex	icon_skills.guildskill1_level1_tex	True
 999001051	XPBoost	Buff	True	setp	7200000	0	2.5	和諧的樂趣			不論隊員數量，不會變更個人獲得的經驗值。	icon_skills.guildskill1_level1_tex	icon_skills.guildskill1_level1_tex	True
+999001052	Power	Buff	True	abs	20000	0	30	亞黔班特的力量	88875	猛烈亞黔班特的胸針	感受到亞黔班特的力量。 力量提升 $H_W_GOOD30$COLOR_END，爆擊觸發提升 $H_W_GOOD30$COLOR_END，攻擊速度提升 $H_W_GOOD12%$COLOR_END。	icon_items.brooch_azenbant_tex	icon_items.brooch_azenbant_tex	True
+999001052	Crit	Buff	True	abs	20000	0	30	亞黔班特的力量	88875	猛烈亞黔班特的胸針	感受到亞黔班特的力量。 力量提升 $H_W_GOOD30$COLOR_END，爆擊觸發提升 $H_W_GOOD30$COLOR_END，攻擊速度提升 $H_W_GOOD12%$COLOR_END。	icon_items.brooch_azenbant_tex	icon_items.brooch_azenbant_tex	True
+999001052	ASpd	Buff	True	perc	20000	0	1.12	亞黔班特的力量	88875	猛烈亞黔班特的胸針	感受到亞黔班特的力量。 力量提升 $H_W_GOOD30$COLOR_END，爆擊觸發提升 $H_W_GOOD30$COLOR_END，攻擊速度提升 $H_W_GOOD12%$COLOR_END。	icon_items.brooch_azenbant_tex	icon_items.brooch_azenbant_tex	True
 999008300	Power	Buff	True	perc	3930000	0	1.15	攻擊力增加			攻擊力增加$H_W_GOOD15%$COLOR_END。	icon_status.plusattack_tex	icon_status.plusattack_tex	True
 999008400	Endurance	Debuff	False	perc	3930000	0	0.85	防衛力減少			防禦力減少$H_W_GOOD15%$COLOR_END。	icon_status.minusdefence_tex	icon_status.minusdefence_tex	True
 999008500	MaxMP	Buff	True	perc	3930000	0	1.05	HP增加			HP每次堆疊就會增加$H_W_GOOD5%$COLOR_END。	icon_status.plusattack_tex	icon_status.plusattack_tex	True
@@ -9475,3 +9618,6 @@
 999010000	PVPAtk	Buff	True	abs	0	0	0	戰場 綠鈦強化彈			戰場鬥士基本獲得的綠鈦強化彈效果。使用綠鈦強化彈讓效果擴大化。	icon_items.union_supplies5_tex	icon_items.union_supplies5_tex	True
 999010000	Noctenium	Buff	True	swch	0	0	1	戰場 綠鈦強化彈			戰場鬥士基本獲得的綠鈦強化彈效果。使用綠鈦強化彈讓效果擴大化。	icon_items.union_supplies5_tex	icon_items.union_supplies5_tex	True
 999010000	282	Buff	True	swch	0	0	1	戰場 綠鈦強化彈			戰場鬥士基本獲得的綠鈦強化彈效果。使用綠鈦強化彈讓效果擴大化。	icon_items.union_supplies5_tex	icon_items.union_supplies5_tex	True
+999010003	XPBoost	Buff	True	perc	86400000	0	3	高階成長藥水(200%)(1日)			86400s 內狩獵時獲得經驗值增加200%。$BR下線後時間仍持續計算。$BR$BR在套用VIP狀態下使用時效果為2倍，獲得經驗值增加400%。$BR$BR<font color = '#FF0000'>[注意]</font> 在沒有VIP的狀態下使用藥水後，即使追加使用VIP也不會套用2倍效果。	icon_items.potion20_tex	icon_items.potion20_tex	True
+999010005	47	Buff	True	perc	86400000	0	1.15	技能鍛鍊 15 (1日)			技能鍛鍊經驗值獲得量增加15%。下線後時間仍持續計算。	icon_items.politics_reward_tex	icon_items.politics_reward_tex	True
+999010006	XPBoost	Buff	True	perc	3600000	0	6	高階成長藥水(500%)(1小時)			3600s 內狩獵時獲得經驗值增加500%。$BR下線後時間仍持續計算。$BR$BR在套用VIP狀態下使用時效果為2倍，獲得經驗值增加1000%。$BR$BR<font color = '#FF0000'>[注意]</font> 在沒有VIP的狀態下使用藥水後，即使追加使用VIP也不會套用2倍效果。	icon_items.potion20_tex	icon_items.potion20_tex	True
